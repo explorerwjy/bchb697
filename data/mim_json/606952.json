@@ -1,0 +1,242 @@
+{"omim": { 
+"version": "1.0",
+"entryList": [ 
+{"entry": { 
+"prefix": "#", 
+"mimNumber": 606952, 
+"status": "live", 
+"titles": { 
+"preferredTitle": "ALBINISM, OCULOCUTANEOUS, TYPE IB; OCA1B", 
+"alternativeTitles": "OCULOCUTANEOUS ALBINISM, TYPE IB;;\nALBINISM, YELLOW MUTANT TYPE;;\nYELLOW ALBINISM", 
+"includedTitles": "ALBINISM, OCULOCUTANEOUS, TYPE I, TEMPERATURE-SENSITIVE, INCLUDED;;\nOCA1-TS, INCLUDED"
+} , 
+"textSectionList": [ 
+{"textSection": { 
+"textSectionName": "text", 
+"textSectionTitle": "Text", 
+"textSectionContent": "A number sign (#) is used with this entry because oculocutaneous albinism type IB (OCA1B) is caused by homozygous or compound heterozygous mutation in the tyrosinase gene (TYR; {606933}) on chromosome 11q14.\n\nFor a discussion of genetic heterogeneity of OCA, see OCA1A ({203100})."
+} },
+{"textSection": { 
+"textSectionName": "description", 
+"textSectionTitle": "Description", 
+"textSectionContent": "Oculocutaneous albinism type I is an autosomal recessive disorder characterized by absence of pigment in hair, skin, and eyes, and does not vary with race or age. Severe nystagmus, photophobia, and reduced visual acuity are common features. OCA type I is divided into 2 types: type IA, characterized by complete lack of tyrosinase activity due to production of an inactive enzyme, and type IB, characterized by reduced activity of tyrosinase.\n\nAlthough OCA caused by mutations in the TYR gene was classically known as 'tyrosinase-negative' OCA, {12:Tripathi et al. (1992)} noted that some patients with 'tyrosinase-positive' OCA may indeed have TYR mutations resulting in residual enzyme activity. These patients can be classified as having OCA1B."
+} },
+{"textSection": { 
+"textSectionName": "clinicalFeatures", 
+"textSectionTitle": "Clinical Features", 
+"textSectionContent": "{13:Witkop (1971)} suggested that the 'yellow mutant' (ym) form of albinism first observed among the Amish ({10:Nance et al., 1970}) and later observed in non-Amish families ({15:Witkop et al., 1971}) may be distinct from both tyrosinase-positive and tyrosinase-negative albinism. As in type II albinism ({203200}), the homozygote is 'dead white' at birth, with serious ocular abnormalities, but rather rapidly develops normal skin pigmentation and yellow hair. The condition differs from albinism II in the yellow hair and the fact that incubation with L-tyrosine or L-DOPA yields equivocal results.\n\n{4:Hu et al. (1980)} described 3 sisters, including monozygotic twins, with clinical, ultrastructural, and histochemical features typical of yellow mutant albinism. Classic tyrosinase-negative albinism was found in a maternal cousin of the probands. The authors suggested that the probands are genetic compounds for the yellow mutant allele and the classic albinism allele.\n\n{9:King et al. (1986)} reported 3 families in which affected individuals had white hair and no skin or eye pigment at birth, but developed minimal amounts of pigment in the iris in the first decade of life. They had no measurable hairbulb tyrosinase activity. The authors referred to this as 'minimal pigment' type albinism. In each of the families, one parent had normal tyrosinase activity and the other abnormally low activity. {7:King et al. (2001)} stated that early descriptions of 'minimal pigment' and 'platinum'-type albinism are now considered likely to be part of the OCA1B spectrum.\n\n<Subhead> Temperature-sensitive Phenotype\n\n{8:King et al. (1991)} reported a patient with white hair in the warmer areas (scalp and axilla) and progressively darker hair in the cooler areas (extremities) of her body. Tyrosinase assay demonstrated a loss of activity above 35-37 degrees C. The authors noted that the pattern of peripheral pigmentation is analogous to the Siamese cat and the Himalayan mouse."
+} },
+{"textSection": { 
+"textSectionName": "biochemicalFeatures", 
+"textSectionTitle": "Biochemical Features", 
+"textSectionContent": "{10:Nance et al. (1970)} stated that abundant phaeomelanin but little eumelanin was found naturally in the Amish patients who were referred to as representing the yellow mutant form. {4:Hu et al. (1980)} pointed out that the yellow form of albinism is clinically similar to the tyrosinase-positive albinism, but that the hair bulbs show organelles similar to the pheomelanosomes of red hair and absence of tyrosinase activity. Unlike OCA1A, the melanosomes in OCA1B contain residual amounts of melanin and may include the more developed stage III premelanosomes and stage IV melanosomes ({4:Hu et al., 1980}; {6:King et al., 2001})."
+} },
+{"textSection": { 
+"textSectionName": "molecularGenetics", 
+"textSectionTitle": "Molecular Genetics", 
+"textSectionContent": "{14:Witkop et al. (1989)} concluded, mainly on the basis of the family reported by {4:Hu et al. (1980)}, that yellow albinism is probably allelic to tyrosinase-negative albinism. {4:Hu et al. (1980)} supported the view that the yellow mutant locus is homologous to the c-locus in the mouse and should be so designated in man. {5:Hu et al. (1981)} gave a revised (and corrected) table of proposed genotypes of oculocutaneous albinism involving the c-locus.\n\nIn a patient with yellow OCA, {11:Spritz et al. (1989)} identified a pro81-to-leu substitution that may interfere with the normal folding of the tyrosinase polypeptide; see {606933.0002}. In a patient with the yellow form of oculocutaneous albinism {3:Giebel et al. (1990)} found compound heterozygosity in the tyrosinase gene for the pro81-to-leu mutation ({606933.0002}) and a novel val275-to-phe mutation ({606933.0007}).\n\n<Subhead> Temperature-sensitive Phenotype\n\n{8:King et al. (1991)} found that the R402Q mutation in the tyrosinase gene ({606933.0009}) was responsible for a temperature-sensitive enzyme that resulted in peripheral pigmentation. In a patient with temperature-sensitive albinism, {2:Giebel et al. (1991)} identified a substitution in the tyrosinase gene (R422Q; {606933.0012}) that resulted in thermosensitivity of the enzyme."
+} },
+{"textSection": { 
+"textSectionName": "genotypePhenotypeCorrelations", 
+"textSectionTitle": "Genotype/Phenotype Correlations", 
+"textSectionContent": "{1:Chiang et al. (2008)} reported a Hispanic family in which 2 sibs had variable manifestations of OCA1B. A 6-year-old boy had nystagmus, decreased vision, light hair, light skin color, and foveal hypoplasia. His sister had exotropia, blonde hair, light skin color, and brown irides with no history of nystagmus, foveal hypoplasia or decreased vision. Genetic analysis identified compound heterozygosity for 2 variants in the TYR gene: a pathogenic mutation (G47D; {606933.0024}) and the hypomorphic allele R402Q ({606933.00009}). Each unaffected parent was heterozygous for 1 of the variants. {1:Chiang et al. (2008)} postulated that the clinical spectrum of OCA depends on a pigmentation threshold of the affected individual, and that OCA is a quantitative trait disorder with phenotypic variation in individuals of different ethnic background."
+} 
+} ] , 
+"clinicalSynopsisExists": false, 
+"referenceList": [ 
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 1, 
+"authors": "Chiang, P.-W., Drautz, J. M., Tsai, A. C.-H., Spector, E., Clericuzio, C. L.", 
+"title": "A new hypothesis of OCA1B. (Letter)", 
+"source": "Am. J. Med. Genet. 146A: 2968-2970, 2008.", 
+"pubmedID": 18925668, 
+"pubmedImages": false, 
+"articleUrl": "http://dx.doi.org/10.1002/ajmg.a.32539", 
+"publisherAbbreviation": "Wiley", 
+"publisherName": "John Wiley & Sons, Inc.", 
+"publisherUrl": "http://www.interscience.wiley.com/"
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 2, 
+"authors": "Giebel, L. B., Musarella, M. A., Spritz, R. A.", 
+"title": "A nonsense mutation in the tyrosinase gene of Afghan patients with tyrosinase negative (type IA) oculocutaneous albinism.", 
+"source": "J. Med. Genet. 28: 464-467, 1991.", 
+"pubmedID": 1832718, 
+"pubmedCentralID": 1016956, 
+"pubmedImages": false, 
+"articleUrl": "http://jmg.bmj.com/cgi/pmidlookup?view=long&pmid=1832718", 
+"publisherAbbreviation": "HighWire", 
+"publisherName": "HighWire Press", 
+"publisherUrl": "http://highwire.stanford.edu"
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 3, 
+"authors": "Giebel, L. B., Strunk, K. M., King, R. A., Hanifin, J. M., Spritz, R. A.", 
+"title": "A frequent tyrosinase gene mutation in classic, tyrosinase-negative (type IA) oculocutaneous albinism.", 
+"source": "Proc. Nat. Acad. Sci. 87: 3255-3258, 1990.", 
+"pubmedID": 1970634, 
+"pubmedCentralID": 53878, 
+"pubmedImages": false, 
+"articleUrl": "http://www.pnas.org/cgi/pmidlookup?view=long&pmid=1970634", 
+"publisherAbbreviation": "HighWire", 
+"publisherName": "HighWire Press", 
+"publisherUrl": "http://highwire.stanford.edu"
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 4, 
+"authors": "Hu, F., Hanifin, J. M., Prescott, G. H., Tongue, A. C.", 
+"title": "Yellow mutant albinism: cytochemical, ultrastructural, and genetic characterization suggesting multiple allelism.", 
+"source": "Am. J. Hum. Genet. 32: 387-395, 1980.", 
+"pubmedID": 6770679, 
+"pubmedCentralID": 1686057, 
+"pubmedImages": false
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 5, 
+"authors": "Hu, F., Hanifin, J. M., Prescott, G. H., Tongue, A. C.", 
+"title": "Response to Warren's letter. (Letter)", 
+"source": "Am. J. Hum. Genet. 33: 479-480, 1981.", 
+"pubmedID": 17948558, 
+"pubmedImages": false
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 6, 
+"authors": "King, R. A., Hearing, V. J., Creel, D. J., Oetting, W. S.", 
+"title": "Albinism.In: Scriver, C. R.; Beaudet, A. L.; Sly, W. S.; Valle, D. (eds.) : The Metabolic and Molecular Bases of Inherited Disease. Vol. II.", 
+"source": "New York: McGraw-Hill   (7th ed.) : 2001. Pp. 5587-5627."
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 7, 
+"authors": "King, R. A., Hearing, V. J., Creel, D. J., Oetting, W. S.", 
+"title": "Albinism.In: Scriver, C. R.; Beaudet, A. L.; Sly, W. S.; Valle, D. (eds.) : The Metabolic and Molecular Bases of Inherited Disease. Vol. II.", 
+"source": "New York: McGraw-Hill   (8th ed.) : 2001. Pp. 5587-5627."
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 8, 
+"authors": "King, R. A., Townsend, D., Oetting, W., Summers, C. G., Olds, D. P., White, J. G., Spritz, R. A.", 
+"title": "Temperature-sensitive tyrosinase associated with peripheral pigmentation in oculocutaneous albinism.", 
+"source": "J. Clin. Invest. 87: 1046-1053, 1991.", 
+"pubmedID": 1900307, 
+"pubmedCentralID": 329899, 
+"pubmedImages": false, 
+"articleUrl": "http://dx.doi.org/10.1172/JCI115064", 
+"publisherAbbreviation": "JCI", 
+"publisherName": "Journal of Clinical Investigation", 
+"publisherUrl": "http://www.jci.org"
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 9, 
+"authors": "King, R. A., Wirtschafter, J. D., Olds, D. P., Brumbaugh, J.", 
+"title": "Minimal pigment: a new type of oculocutaneous albinism.", 
+"source": "Clin. Genet. 29: 42-50, 1986.", 
+"pubmedID": 3081286, 
+"pubmedImages": false
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 10, 
+"authors": "Nance, W. E., Jackson, C. E., Witkop, C. J., Jr.", 
+"title": "Amish albinism: a distinctive autosomal recessive phenotype.", 
+"source": "Am. J. Hum. Genet. 22: 579-586, 1970.", 
+"pubmedID": 5516239, 
+"pubmedCentralID": 1706616, 
+"pubmedImages": false
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 11, 
+"authors": "Spritz, R. A., Strunk, K., King, R. A.", 
+"title": "Molecular analyses of the tyrosinase gene in patients with tyrosinase-deficient oculocutaneous albinism. (Abstract)", 
+"source": "Am. J. Hum. Genet. 45 (suppl.): A221, 1989."
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 12, 
+"authors": "Tripathi, R. K., Droetto, S., Spritz, R. A.", 
+"title": "Many patients with 'tyrosinase-positive' oculocutaneous albinism have tyrosinase gene mutations. (Abstract)", 
+"source": "Am. J. Hum. Genet. 51 (suppl.): A179, 1992."
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 13, 
+"authors": "Witkop, C. J., Jr.", 
+"title": "Albinism.In: Harris, H.; Hirschhorn, K. : Advances in Human Genetics.", 
+"source": "New York: Plenum Press (pub.)   2: 1971. Pp. 61-142."
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 14, 
+"authors": "Witkop, C. J., Jr., Quevedo, W. C., Jr., Fitzpatrick, T. B., King, R. A.", 
+"title": "Albinism.In: Scriver, C. R.; Beaudet, A. L.; Sly, W. S.; Valle, D. : The Metabolic Basis of Inherited Disease. Vol. II.", 
+"source": "New York: McGraw-Hill (pub.)   (6th ed.) : 1989. Pp. 2905-2947."
+} },
+{"reference": { 
+"mimNumber": 606952, 
+"referenceNumber": 15, 
+"authors": "Witkop, C. J., Jr., White, J. G., Nance, W. E., Jackson, C. E., Desnick, S.", 
+"title": "Classification of albinism in man. Clinical Delineation of Birth Defects. Skin, Hair and Nails.", 
+"source": "New York: National Foundation--March of Dimes (pub.)   XII: 1971. Pp. 13-25."
+} 
+} ] , 
+"phenotypeMapExists": true, 
+"phenotypicSeriesExists": true, 
+"phenotypeMapList": [ 
+{"phenotypeMap": { 
+"mimNumber": 606933, 
+"phenotype": "Albinism, oculocutaneous, type IB", 
+"phenotypeMimNumber": 606952, 
+"phenotypicSeriesNumber": "PS203100", 
+"phenotypeMappingKey": 3, 
+"phenotypeInheritance": null, 
+"sequenceID": 8882, 
+"chromosome": 11, 
+"chromosomeSymbol": "11", 
+"chromosomeSort": 713, 
+"chromosomeLocationStart": 89177857, 
+"chromosomeLocationEnd": 89295758, 
+"transcript": "uc001pcs.4", 
+"cytoLocation": "11q14-q21", 
+"computedCytoLocation": "11q14.3", 
+"geneSymbols": "TYR, SHEP3, CMM8, OCA1A, ATN", 
+"geneInheritance": null
+} 
+} ] , 
+"externalLinks": { 
+"swissProtIDs": "P14679", 
+"mgiHumanDisease": true, 
+"wormbaseDO": false, 
+"nbkIDs": "NBK1166;;Oculocutaneous Albinism Type 1", 
+"dermAtlas": false, 
+"orphanetDiseases": "352737;;22111;;Temperature-sensitive oculocutaneous albinism type 1;;;352731;;22109;;Oculocutaneous albinism type 1;;;79434;;11460;;Oculocutaneous albinism type 1B", 
+"ordrDiseases": "594;;Oculocutaneous albinism type 1B", 
+"geneticsHomeReferenceIDs": "condition;;oculocutaneous albinism;;oculocutaneous-albinism", 
+"umlsIDs": "C1847024,C1847132", 
+"nextGxDx": false, 
+"gtr": true, 
+"geneTests": false, 
+"diseaseOntologyIDs": "0050632", 
+"geneticAllianceIDs": "5316", 
+"cmgGene": false, 
+"keggPathways": false, 
+"gwasCatalog": false, 
+"clinGen": false
+} , 
+"contributors": "Cassandra L. Kniffin - updated : 3/3/2009\nCassandra L. Kniffin - updated : 9/12/2007", 
+"creationDate": "Cassandra L. Kniffin : 5/17/2002", 
+"editHistory": "carol : 06/25/2014\nwwang : 9/2/2009\nwwang : 3/10/2009\nckniffin : 3/3/2009\nalopez : 2/19/2008\ncarol : 9/13/2007\nckniffin : 9/13/2007\ncarol : 9/12/2007\nckniffin : 9/12/2007\nckniffin : 9/11/2007\ncarol : 3/28/2003\nckniffin : 3/21/2003\ncarol : 5/29/2002\ncarol : 5/29/2002\nckniffin : 5/28/2002", 
+"epochCreated": 1021618800, 
+"dateCreated": "Fri, 17 May 2002 03:00:00 EDT", 
+"epochUpdated": 1403679600, 
+"dateUpdated": "Wed, 25 Jun 2014 03:00:00 EDT"
+} 
+} ] 
+} }

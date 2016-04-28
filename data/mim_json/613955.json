@@ -1,0 +1,106 @@
+{"omim": { 
+"version": "1.0",
+"entryList": [ 
+{"entry": { 
+"prefix": "#", 
+"mimNumber": 613955, 
+"status": "live", 
+"titles": { 
+"preferredTitle": "AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 2; PLCA2"
+} , 
+"textSectionList": [ 
+{"textSection": { 
+"textSectionName": "text", 
+"textSectionTitle": "Text", 
+"textSectionContent": "A number sign (#) is used with this entry because of evidence that familial primary localized cutaneous amyloidosis-2 is caused by heterozygous mutation in the IL31RA gene ({609510}) on chromosome 5q11.2."
+} },
+{"textSection": { 
+"textSectionName": "description", 
+"textSectionTitle": "Description", 
+"textSectionContent": "Primary localized cutaneous amyloidosis is characterized clinically by pruritus and skin scratching and histologically by the finding of deposits of amyloid staining on keratinous debris in the papillary dermis (summary by {2:Tanaka et al., 2009}).\n\nFor a general description and a discussion of genetic heterogeneity of PLCA, see {105250}."
+} },
+{"textSection": { 
+"textSectionName": "molecularGenetics", 
+"textSectionTitle": "Molecular Genetics", 
+"textSectionContent": "In 8 Taiwanese families segregating primary localized cutaneous amyloidosis mapping to chromosome 5p13-q12 who did not have mutations in the OSMR gene ({601743}), {1:Lin et al. (2010)} screened for mutations in 2 other cytokine genes mapping to this region, IL31RA and IL6ST ({600694}). In 1 family they identified a heterozygous mutation in the IL31RA gene ({609510.0001}), which occurred in a fibronectin type III-like domain as observed in the OSMR mutations. {1:Lin et al. (2010)} noted that OSMR and IL31RA form the heterodimeric receptor through which IL31 ({609509}) signals."
+} 
+} ] , 
+"clinicalSynopsisExists": false, 
+"referenceList": [ 
+{"reference": { 
+"mimNumber": 613955, 
+"referenceNumber": 1, 
+"authors": "Lin, M.-W., Lee, D.-D., Liu, T.-T., Lin, Y.-F., Chen, S.-Y., Huang, C.-C., Weng, H.-Y., Liu, Y.-F., Tanaka, A., Arita, K., Lai-Cheong, J., Palisson, F., Chang, Y.-T., Wong, C.-K., Matsuura, I., McGrath, J. A., Tsai, S.-F.", 
+"title": "Novel IL31RA gene mutation and ancestral OSMR mutant allele in familial primary cutaneous amyloidosis.", 
+"source": "Europ. J. Hum. Genet. 18: 26-32, 2010.", 
+"pubmedID": 19690585, 
+"pubmedCentralID": 2987153, 
+"pubmedImages": true, 
+"articleUrl": "http://dx.doi.org/10.1038/ejhg.2009.135", 
+"publisherAbbreviation": "NPG", 
+"publisherName": "Nature Publishing Group", 
+"publisherUrl": "http://www.nature.com"
+} },
+{"reference": { 
+"mimNumber": 613955, 
+"referenceNumber": 2, 
+"authors": "Tanaka, A., Arita, K., Lai-Cheong, J. E., Palisson, F., Hide, M., McGrath, J. A.", 
+"title": "New insight into mechanisms of pruritus from molecular studies on familial primary localized cutaneous amyloidosis.", 
+"source": "Brit. J. Derm. 161: 1217-1224, 2009.", 
+"pubmedID": 19663869, 
+"pubmedImages": false, 
+"articleUrl": "http://onlinelibrary.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0007-0963&date=2009&volume=161&issue=6&spage=1217", 
+"publisherAbbreviation": "Blackwell", 
+"publisherName": "Blackwell Publishing", 
+"publisherUrl": "http://www.blackwellpublishing.com/"
+} 
+} ] , 
+"phenotypeMapExists": true, 
+"phenotypicSeriesExists": true, 
+"phenotypeMapList": [ 
+{"phenotypeMap": { 
+"mimNumber": 609510, 
+"phenotype": "Amyloidosis, primary localized cutaneous, 2", 
+"phenotypeMimNumber": 613955, 
+"phenotypicSeriesNumber": "PS105250", 
+"phenotypeMappingKey": 3, 
+"phenotypeInheritance": null, 
+"sequenceID": 4191, 
+"chromosome": 5, 
+"chromosomeSymbol": "5", 
+"chromosomeSort": 151, 
+"chromosomeLocationStart": 55840333, 
+"chromosomeLocationEnd": 55922853, 
+"transcript": "uc003jql.4", 
+"cytoLocation": "5q11.2", 
+"computedCytoLocation": "5q11.2", 
+"geneSymbols": "IL31RA, GLMR, GPL, PLCA2", 
+"geneInheritance": null
+} 
+} ] , 
+"externalLinks": { 
+"swissProtIDs": "Q8NI17", 
+"mgiHumanDisease": false, 
+"wormbaseDO": false, 
+"dermAtlas": false, 
+"orphanetDiseases": "353220;;22120;;Familial primary localized cutaneous amyloidosis", 
+"umlsIDs": "C3151404", 
+"nextGxDx": false, 
+"gtr": true, 
+"geneTests": false, 
+"diseaseOntologyIDs": "0050639", 
+"geneticAllianceIDs": "7684", 
+"cmgGene": false, 
+"keggPathways": false, 
+"gwasCatalog": false, 
+"clinGen": false
+} , 
+"creationDate": "Carol A. Bocchini : 5/4/2011", 
+"editHistory": "terry : 05/05/2011\ncarol : 5/5/2011", 
+"epochCreated": 1304492400, 
+"dateCreated": "Wed, 04 May 2011 03:00:00 EDT", 
+"epochUpdated": 1304578800, 
+"dateUpdated": "Thu, 05 May 2011 03:00:00 EDT"
+} 
+} ] 
+} }

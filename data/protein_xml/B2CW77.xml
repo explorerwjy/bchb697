@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-09-02" modified="2015-12-09" version="49">
+<accession>B2CW77</accession>
+<name>KILIN_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Killin</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">KLLN</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="5396" last="5401">
+<title>Killin is a p53-regulated nuclear inhibitor of DNA synthesis.</title>
+<authorList>
+<person name="Cho Y.J."/>
+<person name="Liang P."/>
+</authorList>
+<dbReference type="PubMed" id="18385383"/>
+<dbReference type="DOI" id="10.1073/pnas.0705410105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DNA-BINDING</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="375" last="381">
+<title>The DNA sequence and comparative analysis of human chromosome 10.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Earthrowl M.E."/>
+<person name="Grafham D.V."/>
+<person name="Rubenfield M."/>
+<person name="French L."/>
+<person name="Steward C.A."/>
+<person name="Sims S.K."/>
+<person name="Jones M.C."/>
+<person name="Searle S."/>
+<person name="Scott C."/>
+<person name="Howe K."/>
+<person name="Hunt S.E."/>
+<person name="Andrews T.D."/>
+<person name="Gilbert J.G.R."/>
+<person name="Swarbreck D."/>
+<person name="Ashurst J.L."/>
+<person name="Taylor A."/>
+<person name="Battles J."/>
+<person name="Bird C.P."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ashwell R.I.S."/>
+<person name="Ambrose K.D."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Cahill P."/>
+<person name="Camire D."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Corby N."/>
+<person name="Coulson A."/>
+<person name="Dhami P."/>
+<person name="Dutta I."/>
+<person name="Dunn M."/>
+<person name="Faulkner L."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gustafson E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E."/>
+<person name="Heath P.D."/>
+<person name="Ho T.P."/>
+<person name="Hopkins B."/>
+<person name="Horne J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hynds C."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kana A."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="Kershaw J.K."/>
+<person name="Kokkinaki M."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lee H.M."/>
+<person name="Leongamornlert D.A."/>
+<person name="Laird G."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nguyen M."/>
+<person name="Overton-Larty E."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K."/>
+<person name="Rice C.M."/>
+<person name="Rogosin A."/>
+<person name="Ross M.T."/>
+<person name="Sarafidou T."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Standring L."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Torcasso W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tsolas J."/>
+<person name="Wall M."/>
+<person name="Walsh J."/>
+<person name="Wang H."/>
+<person name="Weinstock K."/>
+<person name="West A.P."/>
+<person name="Willey D.L."/>
+<person name="Whitehead S.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Chen Y."/>
+<person name="Lovering R.C."/>
+<person name="Moschonas N.K."/>
+<person name="Siebert R."/>
+<person name="Fechtel K."/>
+<person name="Bentley D."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Doucette-Stamm L."/>
+<person name="Beck S."/>
+<person name="Smith D.R."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="15164054"/>
+<dbReference type="DOI" id="10.1038/nature02462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2010" name="JAMA" volume="304" first="2724" last="2731">
+<title>Germline epigenetic regulation of KILLIN in Cowden and Cowden-like syndrome.</title>
+<authorList>
+<person name="Bennett K.L."/>
+<person name="Mester J."/>
+<person name="Eng C."/>
+</authorList>
+<dbReference type="PubMed" id="21177507"/>
+<dbReference type="DOI" id="10.1001/jama.2010.1877"/>
+</citation>
+<scope>INVOLVEMENT IN CWS4</scope>
+</reference>
+<comment type="function">
+<text evidence="1">DNA-binding protein involved in S phase checkpoint control-coupled apoptosis by mediating p53/TP53-induced apoptosis. Has the ability to inhibit DNA synthesis and S phase arrest coupled to apoptosis. Has affinity to both double- and single-stranded DNA.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="1">By p53/TP53; direct transcription target of p53/TP53.</text>
+</comment>
+<comment type="disease" evidence="2">
+<disease id="DI-03695">
+<name>Cowden syndrome 4</name>
+<acronym>CWS4</acronym>
+<description>A form of Cowden syndrome, a hamartomatous polyposis syndrome with age-related penetrance. Cowden syndrome is characterized by hamartomatous lesions affecting derivatives of ectodermal, mesodermal and endodermal layers, macrocephaly, facial trichilemmomas (benign tumors of the hair follicle infundibulum), acral keratoses, papillomatous papules, and elevated risk for development of several types of malignancy, particularly breast carcinoma in women and thyroid carcinoma in both men and women. Colon cancer and renal cell carcinoma have also been reported. Hamartomas can be found in virtually every organ, but most commonly in the skin, gastrointestinal tract, breast and thyroid.</description>
+<dbReference type="MIM" id="615107"/>
+</disease>
+<text evidence="2">The gene represented in this entry is involved in disease pathogenesis. Germline KLLN methylation is common among patients with Cowden syndrome or Cowden-like syndrome and is associated with increased risks of breast and renal cancer over PTEN mutation-positive individuals (PubMed:21177507).</text>
+</comment>
+<dbReference type="EMBL" id="EU552092">
+<property type="protein sequence ID" value="ACB45456.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC063965">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS44454.1"/>
+<dbReference type="RefSeq" id="NP_001119521.1">
+<property type="nucleotide sequence ID" value="NM_001126049.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.559820"/>
+<dbReference type="ProteinModelPortal" id="B2CW77"/>
+<dbReference type="STRING" id="9606.ENSP00000392204"/>
+<dbReference type="BioMuta" id="KLLN"/>
+<dbReference type="PaxDb" id="B2CW77"/>
+<dbReference type="PRIDE" id="B2CW77"/>
+<dbReference type="Ensembl" id="ENST00000445946">
+<property type="protein sequence ID" value="ENSP00000392204"/>
+<property type="gene ID" value="ENSG00000227268"/>
+</dbReference>
+<dbReference type="GeneID" id="100144748"/>
+<dbReference type="KEGG" id="hsa:100144748"/>
+<dbReference type="UCSC" id="uc009xti.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="100144748"/>
+<dbReference type="GeneCards" id="KLLN"/>
+<dbReference type="HGNC" id="HGNC:37212">
+<property type="gene designation" value="KLLN"/>
+</dbReference>
+<dbReference type="MalaCards" id="KLLN"/>
+<dbReference type="MIM" id="612105">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="615107">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_B2CW77"/>
+<dbReference type="Orphanet" id="201">
+<property type="disease" value="Cowden syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="227535">
+<property type="disease" value="Hereditary breast cancer"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410KC85">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4110P8F">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00560000078481"/>
+<dbReference type="HOGENOM" id="HOG000113227"/>
+<dbReference type="InParanoid" id="B2CW77"/>
+<dbReference type="OMA" id="WLHKHPH"/>
+<dbReference type="OrthoDB" id="EOG780RNQ"/>
+<dbReference type="PhylomeDB" id="B2CW77"/>
+<dbReference type="GenomeRNAi" id="100144748"/>
+<dbReference type="NextBio" id="20774789"/>
+<dbReference type="PRO" id="PR:B2CW77"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 10"/>
+</dbReference>
+<dbReference type="Bgee" id="B2CW77"/>
+<dbReference type="Genevisible" id="B2CW77">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005730">
+<property type="term" value="C:nucleolus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007050">
+<property type="term" value="P:cell cycle arrest"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Killin" id="PRO_0000347059">
+<location>
+<begin position="1"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="DNA-binding region">
+<location>
+<begin position="8"/>
+<end position="50"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18385383"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21177507"/>
+</source>
+</evidence>
+<sequence length="178" mass="19958" checksum="69C23B9B8EDEA1EF" modified="2008-05-20" version="1">
+MDRPGPGSARPGRTVHVWGYRVEWKVRNGRKLQPSEWAGRGDLGGFKRRWKDTRATVGTT
+FRRRSRVSLVGELSKFPLPSDSSGGKSSSSFARGALAWCRQRNPNPSCAAAETGARTSLP
+KERCRGWRLGNWLHKHPHPNTCPRLPACWLPPILTERGERVPKLVPLLACYPKSKPKD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

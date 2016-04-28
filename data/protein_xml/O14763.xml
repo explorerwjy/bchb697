@@ -1,0 +1,1501 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-09-26" modified="2016-04-13" version="179">
+<accession>O14763</accession>
+<accession>O14720</accession>
+<accession>O15508</accession>
+<accession>O15517</accession>
+<accession>O15531</accession>
+<accession>Q6UXM8</accession>
+<accession>Q7Z360</accession>
+<accession>Q9BVE0</accession>
+<name>TR10B_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Tumor necrosis factor receptor superfamily member 10B</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Death receptor 5</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>TNF-related apoptosis-inducing ligand receptor 2</fullName>
+<shortName>TRAIL receptor 2</shortName>
+<shortName>TRAIL-R2</shortName>
+</alternativeName>
+<cdAntigenName>CD262</cdAntigenName>
+</protein>
+<gene>
+<name type="primary">TNFRSF10B</name>
+<name type="synonym">DR5</name>
+<name type="synonym">KILLER</name>
+<name type="synonym">TRAILR2</name>
+<name type="synonym">TRICK2</name>
+<name type="synonym">ZTNFR9</name>
+<name type="ORF">UNQ160/PRO186</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Curr. Biol." volume="7" first="693" last="696">
+<title>TRICK2, a new alternatively spliced receptor that transduces the cytotoxic signal from TRAIL.</title>
+<authorList>
+<person name="Screaton G.R."/>
+<person name="Mongkolsapaya J."/>
+<person name="Xu X.-N."/>
+<person name="Cowper A.E."/>
+<person name="McMichael A.J."/>
+<person name="Bell J.I."/>
+</authorList>
+<dbReference type="PubMed" id="9285725"/>
+<dbReference type="DOI" id="10.1016/S0960-9822(06)00297-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS LONG AND SHORT)</scope>
+<scope>ALTERNATIVE SPLICING</scope>
+<scope>VARIANTS LEU-32; VAL-67 AND ALA-191</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="EMBO J." volume="16" first="5386" last="5397">
+<title>TRAIL-R2: a novel apoptosis-mediating receptor for TRAIL.</title>
+<authorList>
+<person name="Walczak H."/>
+<person name="Degli-Esposti M.A."/>
+<person name="Johnson R.S."/>
+<person name="Smolak P.J."/>
+<person name="Waugh J.Y."/>
+<person name="Boiani N."/>
+<person name="Timour M.S."/>
+<person name="Gerhart M.J."/>
+<person name="Schooley K.A."/>
+<person name="Smith C.A."/>
+<person name="Goodwin R.G."/>
+<person name="Rauch C.T."/>
+</authorList>
+<dbReference type="PubMed" id="9311998"/>
+<dbReference type="DOI" id="10.1093/emboj/16.17.5386"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LONG)</scope>
+<scope>PROTEIN SEQUENCE OF N-TERMINUS</scope>
+<scope>VARIANT ALA-191</scope>
+<source>
+<tissue>Foreskin fibroblast</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="FEBS Lett." volume="416" first="329" last="334">
+<title>Characterization of two receptors for TRAIL.</title>
+<authorList>
+<person name="Schneider P."/>
+<person name="Bodmer J.-L."/>
+<person name="Thome M."/>
+<person name="Hofmann K."/>
+<person name="Holler N."/>
+<person name="Tschopp J."/>
+</authorList>
+<dbReference type="PubMed" id="9373179"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(97)01231-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LONG)</scope>
+<scope>CHARACTERIZATION</scope>
+<scope>VARIANTS LEU-32; VAL-67 AND ALA-191</scope>
+<source>
+<tissue>Liver</tissue>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Immunity" volume="7" first="821" last="830">
+<title>Death receptor 5, a new member of the TNFR family, and DR4 induce FADD-dependent apoptosis and activate the NF-kappaB pathway.</title>
+<authorList>
+<person name="Chaudhary P.M."/>
+<person name="Eby M."/>
+<person name="Jasmin A."/>
+<person name="Bookwalter A."/>
+<person name="Murray J."/>
+<person name="Hood L."/>
+</authorList>
+<dbReference type="PubMed" id="9430227"/>
+<dbReference type="DOI" id="10.1016/S1074-7613(00)80400-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)</scope>
+<scope>VARIANTS LEU-32 AND VAL-67</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="25417" last="25420">
+<title>Identification and molecular cloning of two novel receptors for the cytotoxic ligand TRAIL.</title>
+<authorList>
+<person name="MacFarlane M."/>
+<person name="Ahmad M."/>
+<person name="Srinivasula S.M."/>
+<person name="Fernandes-Alnemri T."/>
+<person name="Cohen G.M."/>
+<person name="Alnemri E.S."/>
+</authorList>
+<dbReference type="PubMed" id="9325248"/>
+<dbReference type="DOI" id="10.1074/jbc.272.41.25417"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)</scope>
+<scope>VARIANTS LEU-32 AND VAL-67</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="17" first="141" last="143">
+<title>KILLER/DR5 is a DNA damage-inducible p53-regulated death receptor gene.</title>
+<authorList>
+<person name="Wu G.S."/>
+<person name="Burns T.F."/>
+<person name="McDonald E.R. III"/>
+<person name="Jiang W."/>
+<person name="Meng R."/>
+<person name="Krantz I.D."/>
+<person name="Kao G."/>
+<person name="Gan D.D."/>
+<person name="Zhou J.Y."/>
+<person name="Muschel R."/>
+<person name="Hamilton S.R."/>
+<person name="Spinner N.B."/>
+<person name="Markowitz S."/>
+<person name="Wu G."/>
+<person name="el-Deiry W.S."/>
+</authorList>
+<dbReference type="PubMed" id="9326928"/>
+<dbReference type="DOI" id="10.1038/ng1097-141"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)</scope>
+<source>
+<tissue>Ovary</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Science" volume="277" first="815" last="818">
+<title>An antagonist decoy receptor and a death domain-containing receptor for TRAIL.</title>
+<authorList>
+<person name="Pan G."/>
+<person name="Ni J."/>
+<person name="Wei Y.-F."/>
+<person name="Yu G.-L."/>
+<person name="Gentz R."/>
+<person name="Dixit V.M."/>
+</authorList>
+<dbReference type="PubMed" id="9242610"/>
+<dbReference type="DOI" id="10.1126/science.277.5327.815"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Science" volume="277" first="818" last="821">
+<title>Control of TRAIL-induced apoptosis by a family of signaling and decoy receptors.</title>
+<authorList>
+<person name="Sheridan J.P."/>
+<person name="Marsters S.A."/>
+<person name="Pitti R.M."/>
+<person name="Gurney A."/>
+<person name="Skubatch M."/>
+<person name="Baldwin D.T."/>
+<person name="Ramakrishnan L."/>
+<person name="Gray C.L."/>
+<person name="Baker K."/>
+<person name="Wood W.I."/>
+<person name="Goddard A.D."/>
+<person name="Godowski P.J."/>
+<person name="Ashkenazi A."/>
+</authorList>
+<dbReference type="PubMed" id="9242611"/>
+<dbReference type="DOI" id="10.1126/science.277.5327.818"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)</scope>
+<scope>VARIANT LEU-32</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="Cancer Lett." volume="133" first="197" last="204">
+<title>Genomic organization and mutation analyses of the DR5/TRAIL receptor 2 gene in colorectal carcinomas.</title>
+<authorList>
+<person name="Arai T."/>
+<person name="Akiyama Y."/>
+<person name="Okabe S."/>
+<person name="Saito K."/>
+<person name="Iwai T."/>
+<person name="Yuasa Y."/>
+</authorList>
+<dbReference type="PubMed" id="10072170"/>
+<dbReference type="DOI" id="10.1016/S0304-3835(98)00230-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>ALTERNATIVE SPLICING</scope>
+<scope>VARIANTS LEU-32; VAL-67 AND ALA-191</scope>
+</reference>
+<reference key="10">
+<citation type="submission" date="1999-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Cao X."/>
+<person name="Zhang W."/>
+<person name="Wan T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)</scope>
+</reference>
+<reference key="11">
+<citation type="submission" date="1999-10" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens homolog of tumor necrosis factor receptor.</title>
+<authorList>
+<person name="Farrah T."/>
+<person name="Vu T."/>
+<person name="Gilbert T."/>
+<person name="Gross J."/>
+<person name="O'Hara P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)</scope>
+<scope>VARIANTS LEU-32 AND VAL-67</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2003" name="Genome Res." volume="13" first="2265" last="2270">
+<title>The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment.</title>
+<authorList>
+<person name="Clark H.F."/>
+<person name="Gurney A.L."/>
+<person name="Abaya E."/>
+<person name="Baker K."/>
+<person name="Baldwin D.T."/>
+<person name="Brush J."/>
+<person name="Chen J."/>
+<person name="Chow B."/>
+<person name="Chui C."/>
+<person name="Crowley C."/>
+<person name="Currell B."/>
+<person name="Deuel B."/>
+<person name="Dowd P."/>
+<person name="Eaton D."/>
+<person name="Foster J.S."/>
+<person name="Grimaldi C."/>
+<person name="Gu Q."/>
+<person name="Hass P.E."/>
+<person name="Heldens S."/>
+<person name="Huang A."/>
+<person name="Kim H.S."/>
+<person name="Klimowski L."/>
+<person name="Jin Y."/>
+<person name="Johnson S."/>
+<person name="Lee J."/>
+<person name="Lewis L."/>
+<person name="Liao D."/>
+<person name="Mark M.R."/>
+<person name="Robbie E."/>
+<person name="Sanchez C."/>
+<person name="Schoenfeld J."/>
+<person name="Seshagiri S."/>
+<person name="Simmons L."/>
+<person name="Singh J."/>
+<person name="Smith V."/>
+<person name="Stinson J."/>
+<person name="Vagts A."/>
+<person name="Vandlen R.L."/>
+<person name="Watanabe C."/>
+<person name="Wieand D."/>
+<person name="Woods K."/>
+<person name="Xie M.-H."/>
+<person name="Yansura D.G."/>
+<person name="Yi S."/>
+<person name="Yu G."/>
+<person name="Yuan J."/>
+<person name="Zhang M."/>
+<person name="Zhang Z."/>
+<person name="Goddard A.D."/>
+<person name="Wood W.I."/>
+<person name="Godowski P.J."/>
+<person name="Gray A.M."/>
+</authorList>
+<dbReference type="PubMed" id="12975309"/>
+<dbReference type="DOI" id="10.1101/gr.1293003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM SHORT)</scope>
+<scope>VARIANT LEU-32</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<scope>VARIANT LEU-32</scope>
+<source>
+<tissue>Colon endothelium</tissue>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2006" name="Nature" volume="439" first="331" last="335">
+<title>DNA sequence and analysis of human chromosome 8.</title>
+<authorList>
+<person name="Nusbaum C."/>
+<person name="Mikkelsen T.S."/>
+<person name="Zody M.C."/>
+<person name="Asakawa S."/>
+<person name="Taudien S."/>
+<person name="Garber M."/>
+<person name="Kodira C.D."/>
+<person name="Schueler M.G."/>
+<person name="Shimizu A."/>
+<person name="Whittaker C.A."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M.G."/>
+<person name="Yang X."/>
+<person name="Allen N.R."/>
+<person name="Anderson S."/>
+<person name="Asakawa T."/>
+<person name="Blechschmidt K."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Butler J."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="DeArellano K."/>
+<person name="DeCaprio D."/>
+<person name="Dooley K.T."/>
+<person name="Dorris L. III"/>
+<person name="Engels R."/>
+<person name="Gloeckner G."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hall J.L."/>
+<person name="Ishikawa S.K."/>
+<person name="Jaffe D.B."/>
+<person name="Kamat A."/>
+<person name="Kudoh J."/>
+<person name="Lehmann R."/>
+<person name="Lokitsang T."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews C.D."/>
+<person name="Mauceli E."/>
+<person name="Menzel U."/>
+<person name="Mihalev A.H."/>
+<person name="Minoshima S."/>
+<person name="Murayama Y."/>
+<person name="Naylor J.W."/>
+<person name="Nicol R."/>
+<person name="Nguyen C."/>
+<person name="O'Leary S.B."/>
+<person name="O'Neill K."/>
+<person name="Parker S.C.J."/>
+<person name="Polley A."/>
+<person name="Raymond C.K."/>
+<person name="Reichwald K."/>
+<person name="Rodriguez J."/>
+<person name="Sasaki T."/>
+<person name="Schilhabel M."/>
+<person name="Siddiqui R."/>
+<person name="Smith C.L."/>
+<person name="Sneddon T.P."/>
+<person name="Talamas J.A."/>
+<person name="Tenzin P."/>
+<person name="Topham K."/>
+<person name="Venkataraman V."/>
+<person name="Wen G."/>
+<person name="Yamazaki S."/>
+<person name="Young S.K."/>
+<person name="Zeng Q."/>
+<person name="Zimmer A.R."/>
+<person name="Rosenthal A."/>
+<person name="Birren B.W."/>
+<person name="Platzer M."/>
+<person name="Shimizu N."/>
+<person name="Lander E.S."/>
+</authorList>
+<dbReference type="PubMed" id="16421571"/>
+<dbReference type="DOI" id="10.1038/nature04406"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM LONG)</scope>
+<scope>VARIANTS LEU-32 AND ALA-191</scope>
+<source>
+<tissue>Cervix</tissue>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2004" name="Genome Biol." volume="5" first="R8.1" last="R8.16">
+<title>An unappreciated role for RNA surveillance.</title>
+<authorList>
+<person name="Hillman R.T."/>
+<person name="Green R.E."/>
+<person name="Brenner S.E."/>
+</authorList>
+<dbReference type="PubMed" id="14759258"/>
+<dbReference type="DOI" id="10.1186/gb-2004-5-2-r8"/>
+</citation>
+<scope>SPLICE ISOFORM(S) THAT ARE POTENTIAL NMD TARGET(S)</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="45495" last="45502">
+<title>CHOP is involved in endoplasmic reticulum stress-induced apoptosis by enhancing DR5 expression in human carcinoma cells.</title>
+<authorList>
+<person name="Yamaguchi H."/>
+<person name="Wang H.G."/>
+</authorList>
+<dbReference type="PubMed" id="15322075"/>
+<dbReference type="DOI" id="10.1074/jbc.M406933200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2013" name="Cell Host Microbe" volume="13" first="324" last="335">
+<title>Human cytomegalovirus glycoprotein UL141 targets the TRAIL death receptors to thwart host innate antiviral defenses.</title>
+<authorList>
+<person name="Smith W."/>
+<person name="Tomasec P."/>
+<person name="Aicheler R."/>
+<person name="Loewendorf A."/>
+<person name="Nemcovicova I."/>
+<person name="Wang E.C."/>
+<person name="Stanton R.J."/>
+<person name="Macauley M."/>
+<person name="Norris P."/>
+<person name="Willen L."/>
+<person name="Ruckova E."/>
+<person name="Nomoto A."/>
+<person name="Schneider P."/>
+<person name="Hahn G."/>
+<person name="Zajonc D.M."/>
+<person name="Ware C.F."/>
+<person name="Wilkinson G.W."/>
+<person name="Benedict C.A."/>
+</authorList>
+<dbReference type="PubMed" id="23498957"/>
+<dbReference type="DOI" id="10.1016/j.chom.2013.02.003"/>
+</citation>
+<scope>INTERACTION WITH HUMAN CYTOMEGALOVIRUS PROTEIN UL141</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1999" name="Mol. Cell" volume="4" first="563" last="571">
+<title>Triggering cell death: the crystal structure of Apo2L/TRAIL in a complex with death receptor 5.</title>
+<authorList>
+<person name="Hymowitz S.G."/>
+<person name="Christinger H.W."/>
+<person name="Fuh G."/>
+<person name="Ultsch M."/>
+<person name="O'Connell M."/>
+<person name="Kelley R.F."/>
+<person name="Ashkenazi A."/>
+<person name="de Vos A.M."/>
+</authorList>
+<dbReference type="PubMed" id="10549288"/>
+<dbReference type="DOI" id="10.1016/S1097-2765(00)80207-5"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 54-183</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1999" name="Nat. Struct. Biol." volume="6" first="1048" last="1053">
+<title>Structure of the TRAIL-DR5 complex reveals mechanisms conferring specificity in apoptotic initiation.</title>
+<authorList>
+<person name="Mongkolsapaya J."/>
+<person name="Grimes J.M."/>
+<person name="Chen N."/>
+<person name="Xu X.-N."/>
+<person name="Stuart D.I."/>
+<person name="Jones E.Y."/>
+<person name="Screaton G.R."/>
+</authorList>
+<dbReference type="PubMed" id="10542098"/>
+<dbReference type="DOI" id="10.1038/14935"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 69-184</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2013" name="PLoS Pathog." volume="9" first="E1003224" last="E1003224">
+<title>Structure of human cytomegalovirus UL141 binding to TRAIL-R2 reveals novel, non-canonical death receptor interactions.</title>
+<authorList>
+<person name="Nemcovicova I."/>
+<person name="Benedict C.A."/>
+<person name="Zajonc D.M."/>
+</authorList>
+<dbReference type="PubMed" id="23555243"/>
+<dbReference type="DOI" id="10.1371/journal.ppat.1003224"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 58-184</scope>
+<scope>INTERACTION WITH HUMAN CYTOMEGALOVIRUS PROTEIN UL141</scope>
+</reference>
+<comment type="function">
+<text evidence="10">Receptor for the cytotoxic ligand TNFSF10/TRAIL. The adapter molecule FADD recruits caspase-8 to the activated receptor. The resulting death-inducing signaling complex (DISC) performs caspase-8 proteolytic activation which initiates the subsequent cascade of caspases (aspartate-specific cysteine proteases) mediating apoptosis. Promotes the activation of NF-kappa-B. Essential for ER stress-induced apoptosis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="13 14">Homotrimer. Can interact with TRADD and RIPK1. Interacts with HCMV protein UL141; this interaction prevents TNFRSF10B cell surface expression. Two TNFRSF10B monomers interact with a UL141 homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-518882"/>
+<interactant intactId="EBI-495373">
+<id>P50591</id>
+<label>TNFSF10</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>25</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Membrane</location>
+<topology>Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>O14763-1</id>
+<name>Long</name>
+<name>TRICK2B</name>
+<sequence type="displayed"/>
+<text>May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</isoform>
+<isoform>
+<id>O14763-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_039125"/>
+<text>May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</isoform>
+<isoform>
+<id>O14763-2</id>
+<name>Short</name>
+<name>TRICK2A</name>
+<sequence type="described" ref="VSP_006490"/>
+<text>May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>Widely expressed in adult and fetal tissues; very highly expressed in tumor cell lines such as HeLaS3, K-562, HL-60, SW480, A-549 and G-361; highly expressed in heart, peripheral blood lymphocytes, liver, pancreas, spleen, thymus, prostate, ovary, uterus, placenta, testis, esophagus, stomach and throughout the intestinal tract; not detectable in brain.</text>
+</comment>
+<comment type="induction">
+<text evidence="10">By ER stress. Regulated by p53/TP53.</text>
+</comment>
+<comment type="disease">
+<disease id="DI-01696">
+<name>Squamous cell carcinoma of the head and neck</name>
+<acronym>HNSCC</acronym>
+<description>A non-melanoma skin cancer affecting the head and neck. The hallmark of cutaneous SCC is malignant transformation of normal epidermal keratinocytes.</description>
+<dbReference type="MIM" id="275355"/>
+</disease>
+<text>The disease may be caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Contains 1 death domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Contains 3 TNFR-Cys repeats.</text>
+</comment>
+<dbReference type="EMBL" id="AF018657">
+<property type="protein sequence ID" value="AAB70577.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF018658">
+<property type="protein sequence ID" value="AAB70578.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF016849">
+<property type="protein sequence ID" value="AAC51778.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF016266">
+<property type="protein sequence ID" value="AAB81180.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF016268">
+<property type="protein sequence ID" value="AAC01565.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF020501">
+<property type="protein sequence ID" value="AAB71412.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF022386">
+<property type="protein sequence ID" value="AAB71949.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF012628">
+<property type="protein sequence ID" value="AAB67109.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF012535">
+<property type="protein sequence ID" value="AAB67103.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB014718">
+<property type="protein sequence ID" value="BAA33723.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF153687">
+<property type="protein sequence ID" value="AAF75587.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF192548">
+<property type="protein sequence ID" value="AAF07175.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY358277">
+<property type="protein sequence ID" value="AAQ88644.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX538104">
+<property type="protein sequence ID" value="CAD98017.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC107959">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC001281">
+<property type="protein sequence ID" value="AAH01281.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS6035.1">
+<molecule id="O14763-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS6036.1">
+<molecule id="O14763-2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_003833.4">
+<molecule id="O14763-1"/>
+<property type="nucleotide sequence ID" value="NM_003842.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_671716.2">
+<molecule id="O14763-2"/>
+<property type="nucleotide sequence ID" value="NM_147187.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.521456"/>
+<dbReference type="UniGene" id="Hs.661668"/>
+<dbReference type="PDB" id="1D0G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="R/S/T=54-183"/>
+</dbReference>
+<dbReference type="PDB" id="1D4V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=69-184"/>
+</dbReference>
+<dbReference type="PDB" id="1DU3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/G/H/I=54-183"/>
+</dbReference>
+<dbReference type="PDB" id="1ZA3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.35"/>
+<property type="chains" value="R/S=54-183"/>
+</dbReference>
+<dbReference type="PDB" id="2H9G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.32"/>
+<property type="chains" value="R/S=54-183"/>
+</dbReference>
+<dbReference type="PDB" id="3X3F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=54-184"/>
+</dbReference>
+<dbReference type="PDB" id="4I9X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="C/D=58-184"/>
+</dbReference>
+<dbReference type="PDB" id="4N90">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="R/S/T=57-182"/>
+</dbReference>
+<dbReference type="PDB" id="4OD2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="S=73-183"/>
+</dbReference>
+<dbReference type="PDBsum" id="1D0G"/>
+<dbReference type="PDBsum" id="1D4V"/>
+<dbReference type="PDBsum" id="1DU3"/>
+<dbReference type="PDBsum" id="1ZA3"/>
+<dbReference type="PDBsum" id="2H9G"/>
+<dbReference type="PDBsum" id="3X3F"/>
+<dbReference type="PDBsum" id="4I9X"/>
+<dbReference type="PDBsum" id="4N90"/>
+<dbReference type="PDBsum" id="4OD2"/>
+<dbReference type="ProteinModelPortal" id="O14763"/>
+<dbReference type="SMR" id="O14763">
+<property type="residue range" value="75-182"/>
+</dbReference>
+<dbReference type="BioGrid" id="114323">
+<property type="interactions" value="62"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-33566N"/>
+<dbReference type="IntAct" id="O14763">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-109111"/>
+<dbReference type="STRING" id="9606.ENSP00000276431"/>
+<dbReference type="ChEMBL" id="CHEMBL1075153"/>
+<dbReference type="iPTMnet" id="O14763"/>
+<dbReference type="PhosphoSite" id="O14763"/>
+<dbReference type="SwissPalm" id="O14763"/>
+<dbReference type="BioMuta" id="TNFRSF10B"/>
+<dbReference type="EPD" id="O14763"/>
+<dbReference type="MaxQB" id="O14763"/>
+<dbReference type="PaxDb" id="O14763"/>
+<dbReference type="PRIDE" id="O14763"/>
+<dbReference type="DNASU" id="8795"/>
+<dbReference type="Ensembl" id="ENST00000276431">
+<molecule id="O14763-1"/>
+<property type="protein sequence ID" value="ENSP00000276431"/>
+<property type="gene ID" value="ENSG00000120889"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000347739">
+<molecule id="O14763-2"/>
+<property type="protein sequence ID" value="ENSP00000317859"/>
+<property type="gene ID" value="ENSG00000120889"/>
+</dbReference>
+<dbReference type="GeneID" id="8795"/>
+<dbReference type="KEGG" id="hsa:8795"/>
+<dbReference type="UCSC" id="uc003xct.4">
+<molecule id="O14763-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="8795"/>
+<dbReference type="GeneCards" id="TNFRSF10B"/>
+<dbReference type="HGNC" id="HGNC:11905">
+<property type="gene designation" value="TNFRSF10B"/>
+</dbReference>
+<dbReference type="HPA" id="HPA023625"/>
+<dbReference type="MalaCards" id="TNFRSF10B"/>
+<dbReference type="MIM" id="275355">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="603612">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O14763"/>
+<dbReference type="Orphanet" id="67037">
+<property type="disease" value="Squamous cell carcinoma of head and neck"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA36598"/>
+<dbReference type="eggNOG" id="ENOG410IZX0">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111ZZM">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00730000110985"/>
+<dbReference type="HOVERGEN" id="HBG061626"/>
+<dbReference type="InParanoid" id="O14763"/>
+<dbReference type="KO" id="K04722"/>
+<dbReference type="OMA" id="PEQEMEV"/>
+<dbReference type="OrthoDB" id="EOG71VSSN"/>
+<dbReference type="PhylomeDB" id="O14763"/>
+<dbReference type="TreeFam" id="TF333916"/>
+<dbReference type="Reactome" id="R-HSA-140534">
+<property type="pathway name" value="Ligand-dependent caspase activation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3371378">
+<property type="pathway name" value="Regulation by c-FLIP"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5213460">
+<property type="pathway name" value="RIPK1-mediated regulated necrosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5218900">
+<property type="pathway name" value="CASP8 activity is inhibited"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69416">
+<property type="pathway name" value="Dimerization of procaspase-8"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-75158">
+<property type="pathway name" value="TRAIL signaling"/>
+</dbReference>
+<dbReference type="SignaLink" id="O14763"/>
+<dbReference type="EvolutionaryTrace" id="O14763"/>
+<dbReference type="GeneWiki" id="TNFRSF10B"/>
+<dbReference type="GenomeRNAi" id="8795"/>
+<dbReference type="NextBio" id="32984"/>
+<dbReference type="PRO" id="PR:O14763"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 8"/>
+</dbReference>
+<dbReference type="Bgee" id="O14763"/>
+<dbReference type="CleanEx" id="HS_TNFRSF10B"/>
+<dbReference type="ExpressionAtlas" id="O14763">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="O14763">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004872">
+<property type="term" value="F:receptor activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045569">
+<property type="term" value="F:TRAIL binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005031">
+<property type="term" value="F:tumor necrosis factor-activated receptor activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006919">
+<property type="term" value="P:activation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097296">
+<property type="term" value="P:activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007250">
+<property type="term" value="P:activation of NF-kappaB-inducing kinase activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007166">
+<property type="term" value="P:cell surface receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071260">
+<property type="term" value="P:cellular response to mechanical stimulus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097191">
+<property type="term" value="P:extrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008625">
+<property type="term" value="P:extrinsic apoptotic signaling pathway via death domain receptors"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006955">
+<property type="term" value="P:immune response"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006954">
+<property type="term" value="P:inflammatory response"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070059">
+<property type="term" value="P:intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007275">
+<property type="term" value="P:multicellular organismal development"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070266">
+<property type="term" value="P:necroptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043154">
+<property type="term" value="P:negative regulation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043123">
+<property type="term" value="P:positive regulation of I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0012501">
+<property type="term" value="P:programmed cell death"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097300">
+<property type="term" value="P:programmed necrotic cell death"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042981">
+<property type="term" value="P:regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042127">
+<property type="term" value="P:regulation of cell proliferation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902041">
+<property type="term" value="P:regulation of extrinsic apoptotic signaling pathway via death domain receptors"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010939">
+<property type="term" value="P:regulation of necrotic cell death"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034976">
+<property type="term" value="P:response to endoplasmic reticulum stress"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032496">
+<property type="term" value="P:response to lipopolysaccharide"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033209">
+<property type="term" value="P:tumor necrosis factor-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.533.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000488">
+<property type="entry name" value="Death_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001368">
+<property type="entry name" value="TNFR/NGFR_Cys_rich_reg"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020465">
+<property type="entry name" value="TNFR_10"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00531">
+<property type="entry name" value="Death"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00020">
+<property type="entry name" value="TNFR_c6"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF037867">
+<property type="entry name" value="CD261_antigen"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01956">
+<property type="entry name" value="TNFACTORR10"/>
+</dbReference>
+<dbReference type="SMART" id="SM00005">
+<property type="entry name" value="DEATH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00208">
+<property type="entry name" value="TNFR"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50017">
+<property type="entry name" value="DEATH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00652">
+<property type="entry name" value="TNFR_NGFR_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50050">
+<property type="entry name" value="TNFR_NGFR_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="17">
+<location>
+<begin position="1"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="chain" description="Tumor necrosis factor receptor superfamily member 10B" id="PRO_0000034580">
+<location>
+<begin position="56"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="56"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="211"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="232"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="repeat" description="TNFR-Cys 1">
+<location>
+<begin position="57"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="repeat" description="TNFR-Cys 2">
+<location>
+<begin position="97"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="repeat" description="TNFR-Cys 3">
+<location>
+<begin position="138"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="repeat" description="TAPE">
+<location>
+<begin position="192"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="domain" description="Death" evidence="6">
+<location>
+<begin position="339"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="250"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="81"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="97"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="116"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="119"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="139"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="156"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="160"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_039125" evidence="23">
+<location>
+<begin position="119"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform Short." id="VSP_006490" evidence="22 24 25 26 27 28 29 30 31">
+<location>
+<begin position="185"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1129424." id="VAR_016153" evidence="8 9 11 12 15 16 18 19 20 21">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="32"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1047266." id="VAR_016154" evidence="8 16 18 19 20 21">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13265018." id="VAR_059831" evidence="8 11 16 17 19">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="191"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; AAB67103 and 12; AAQ88644." ref="8 12" evidence="32">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="439"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="77"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="85"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="89"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="94"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="99"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="106"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="110"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="123"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="131"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="136"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="143"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="153"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="164"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="172"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="178"/>
+<end position="180"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1D4V"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1DU3"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3X3F"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4I9X"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255"/>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00064"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00206"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10072170"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12975309"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15322075"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23498957"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23555243"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9242611"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9285725"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9311998"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9325248"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9373179"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9430227"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source ref="11"/>
+</evidence>
+<evidence key="22" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12975309"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9242610"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9242611"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9285725"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9325248"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9326928"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9430227"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000303">
+<source ref="10"/>
+</evidence>
+<evidence key="31" type="ECO:0000303">
+<source ref="11"/>
+</evidence>
+<evidence key="32" type="ECO:0000305"/>
+<sequence length="440" mass="47878" checksum="60358EAF2A835870" modified="2010-11-30" version="2" precursor="true">
+MEQRGQNAPAASGARKRHGPGPREARGARPGPRVPKTLVLVVAAVLLLVSAESALITQQD
+LAPQQRAAPQQKRSSPSEGLCPPGHHISEDGRDCISCKYGQDYSTHWNDLLFCLRCTRCD
+SGEVELSPCTTTRNTVCQCEEGTFREEDSPEMCRKCRTGCPRGMVKVGDCTPWSDIECVH
+KESGTKHSGEVPAVEETVTSSPGTPASPCSLSGIIIGVTVAAVVLIVAVFVCKSLLWKKV
+LPYLKGICSGGGGDPERVDRSSQRPGAEDNVLNEIVSILQPTQVPEQEMEVQEPAEPTGV
+NMLSPGESEHLLEPAEAERSQRRRLLVPANEGDPTETLRQCFDDFADLVPFDSWEPLMRK
+LGLMDNEIKVAKAEAAGHRDTLYTMLIKWVNKTGRDASVHTLLDALETLGERLAKQKIED
+HLLSSGKFMYLEGNADSAMS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

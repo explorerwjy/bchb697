@@ -1,0 +1,25 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+P04637	P53_HUMAN	reviewed	Cellular tumor antigen p53 (Antigen NY-CO-13) (Phosphoprotein p53) (Tumor suppressor p53)	TP53 P53	Homo sapiens (Human)	393
+P31749	AKT1_HUMAN	reviewed	RAC-alpha serine/threonine-protein kinase (EC 2.7.11.1) (Protein kinase B) (PKB) (Protein kinase B alpha) (PKB alpha) (Proto-oncogene c-Akt) (RAC-PK-alpha)	AKT1 PKB RAC	Homo sapiens (Human)	480
+P60484	PTEN_HUMAN	reviewed	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN (EC 3.1.3.16) (EC 3.1.3.48) (EC 3.1.3.67) (Mutated in multiple advanced cancers 1) (Phosphatase and tensin homolog)	PTEN MMAC1 TEP1	Homo sapiens (Human)	403
+P25054	APC_HUMAN	reviewed	Adenomatous polyposis coli protein (Protein APC) (Deleted in polyposis 2.5)	APC DP2.5	Homo sapiens (Human)	2843
+P40692	MLH1_HUMAN	reviewed	DNA mismatch repair protein Mlh1 (MutL protein homolog 1)	MLH1 COCA2	Homo sapiens (Human)	756
+P43246	MSH2_HUMAN	reviewed	DNA mismatch repair protein Msh2 (hMSH2) (MutS protein homolog 2)	MSH2	Homo sapiens (Human)	934
+P14679	TYRO_HUMAN	reviewed	Tyrosinase (EC 1.14.18.1) (LB24-AB) (Monophenol monooxygenase) (SK29-AB) (Tumor rejection antigen AB)	TYR	Homo sapiens (Human)	529
+P42336	PK3CA_HUMAN	reviewed	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (PI3-kinase subunit alpha) (PI3K-alpha) (PI3Kalpha) (PtdIns-3-kinase subunit alpha) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha) (PtdIns-3-kinase subunit p110-alpha) (p110alpha) (Phosphoinositide-3-kinase catalytic alpha polypeptide) (Serine/threonine protein kinase PIK3CA) (EC 2.7.11.1)	PIK3CA	Homo sapiens (Human)	1068
+P37173	TGFR2_HUMAN	reviewed	TGF-beta receptor type-2 (TGFR-2) (EC 2.7.11.30) (TGF-beta type II receptor) (Transforming growth factor-beta receptor type II) (TGF-beta receptor type II) (TbetaR-II)	TGFBR2	Homo sapiens (Human)	567
+P52701	MSH6_HUMAN	reviewed	DNA mismatch repair protein Msh6 (hMSH6) (G/T mismatch-binding protein) (GTBP) (GTMBP) (MutS-alpha 160 kDa subunit) (p160)	MSH6 GTBP	Homo sapiens (Human)	1360
+Q03468	ERCC6_HUMAN	reviewed	DNA excision repair protein ERCC-6 (EC 3.6.4.-) (ATP-dependent helicase ERCC6) (Cockayne syndrome protein CSB)	ERCC6 CSB	Homo sapiens (Human)	1493
+Q92889	XPF_HUMAN	reviewed	DNA repair endonuclease XPF (EC 3.1.-.-) (DNA excision repair protein ERCC-4) (DNA repair protein complementing XP-F cells) (Xeroderma pigmentosum group F-complementing protein)	ERCC4 ERCC11 XPF	Homo sapiens (Human)	916
+Q13535	ATR_HUMAN	reviewed	Serine/threonine-protein kinase ATR (EC 2.7.11.1) (Ataxia telangiectasia and Rad3-related protein) (FRAP-related protein 1)	ATR FRP1	Homo sapiens (Human)	2644
+P16422	EPCAM_HUMAN	reviewed	Epithelial cell adhesion molecule (Ep-CAM) (Adenocarcinoma-associated antigen) (Cell surface glycoprotein Trop-1) (Epithelial cell surface antigen) (Epithelial glycoprotein) (EGP) (Epithelial glycoprotein 314) (EGP314) (hEGP314) (KS 1/4 antigen) (KSA) (Major gastrointestinal tumor-associated protein GA733-2) (Tumor-associated calcium signal transducer 1) (CD antigen CD326)	EPCAM GA733-2 M1S2 M4S1 MIC18 TACSTD1 TROP1	Homo sapiens (Human)	314
+O14763	TR10B_HUMAN	reviewed	Tumor necrosis factor receptor superfamily member 10B (Death receptor 5) (TNF-related apoptosis-inducing ligand receptor 2) (TRAIL receptor 2) (TRAIL-R2) (CD antigen CD262)	TNFRSF10B DR5 KILLER TRAILR2 TRICK2 ZTNFR9 UNQ160/PRO186	Homo sapiens (Human)	440
+P21912	SDHB_HUMAN	reviewed	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial (EC 1.3.5.1) (Iron-sulfur subunit of complex II) (Ip)	SDHB SDH SDH1	Homo sapiens (Human)	280
+O14521	DHSD_HUMAN	reviewed	Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial (CybS) (CII-4) (QPs3) (Succinate dehydrogenase complex subunit D) (Succinate-ubiquinone oxidoreductase cytochrome b small subunit) (Succinate-ubiquinone reductase membrane anchor subunit)	SDHD SDH4	Homo sapiens (Human)	159
+Q13216	ERCC8_HUMAN	reviewed	DNA excision repair protein ERCC-8 (Cockayne syndrome WD repeat protein CSA)	ERCC8 CKN1 CSA	Homo sapiens (Human)	396
+Q9BXB1	LGR4_HUMAN	reviewed	Leucine-rich repeat-containing G-protein coupled receptor 4 (G-protein coupled receptor 48)	LGR4 GPR48	Homo sapiens (Human)	951
+Q9UHC1	MLH3_HUMAN	reviewed	DNA mismatch repair protein Mlh3 (MutL protein homolog 3)	MLH3	Homo sapiens (Human)	1453
+P54278	PMS2_HUMAN	reviewed	Mismatch repair endonuclease PMS2 (EC 3.1.-.-) (DNA mismatch repair protein PMS2) (PMS1 protein homolog 2)	PMS2 PMSL2	Homo sapiens (Human)	862
+Q9NXR8	ING3_HUMAN	reviewed	Inhibitor of growth protein 3 (p47ING3)	ING3 HSPC301	Homo sapiens (Human)	418
+Q9UK53	ING1_HUMAN	reviewed	Inhibitor of growth protein 1	ING1	Homo sapiens (Human)	422
+B2CW77	KILIN_HUMAN	reviewed	Killin	KLLN	Homo sapiens (Human)	178

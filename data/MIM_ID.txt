@@ -1,0 +1,92 @@
+P05067	104300	Alzheimer disease 1	AD1
+P05067	605714	Cerebral amyloid angiopathy, APP-related	CAA-APP
+Q9NXR8	275355	Squamous cell carcinoma of the head and neck	HNSCC
+P31749	114480	Breast cancer	BC
+P31749	114500	Colorectal cancer	CRC
+P31749	176920	Proteus syndrome	PROTEUSS
+P19438	142680	Familial hibernian fever	FHF
+P19438	614810	Multiple sclerosis 5	MS5
+P02647	604091	High density lipoprotein deficiency 2	HDLD2
+P02647	205400	High density lipoprotein deficiency 1	HDLD1
+P02647	105200	Amyloidosis 8	AMYL8
+P02766	105210	Amyloidosis, transthyretin-related	AMYL-TTR
+P02766	145680	Hyperthyroxinemia, dystransthyretinemic	DTTRH
+P02766	115430	Carpal tunnel syndrome 1	CTS1
+O14521	168000	Paragangliomas 1	PGL1
+O14521	171300	Pheochromocytoma	PCC
+O14521	114900	Intestinal carcinoid tumor	ICT
+O14521	606864	Paraganglioma and gastric stromal sarcoma	PGGSS
+P25054	175100	Familial adenomatous polyposis	FAP
+P25054	135290	Hereditary desmoid disease	HDD
+P25054	155255	Medulloblastoma	MDB
+P25054	276300	Mismatch repair cancer syndrome	MMRCS
+Q13216	216400	Cockayne syndrome A	CSA
+Q13216	614621	UV-sensitive syndrome 2	UVSS2
+Q03468	133540	Cockayne syndrome B	CSB
+Q03468	214150	Cerebro-oculo-facio-skeletal syndrome 1	COFS1
+Q03468	278800	De Sanctis-Cacchione syndrome	DSC
+Q03468	613761	Macular degeneration, age-related, 5	ARMD5
+P60484	158350	Cowden syndrome 1	CWS1
+P60484	158350	Lhermitte-Duclos disease	LDD
+P60484	153480	Bannayan-Riley-Ruvalcaba syndrome	BRRS
+P60484	275355	Squamous cell carcinoma of the head and neck	HNSCC
+P54278	614337	Hereditary non-polyposis colorectal cancer 4	HNPCC4
+P54278	276300	Mismatch repair cancer syndrome	MMRCS
+Q15306	254500	Multiple myeloma	MM
+P22607	100800	Achondroplasia	ACH
+P22607	612247	Crouzon syndrome with acanthosis nigricans	CAN
+P22607	187600	Thanatophoric dysplasia 1	TD1
+P22607	187601	Thanatophoric dysplasia 2	TD2
+Q9UHC1	614385	Hereditary non-polyposis colorectal cancer 7	HNPCC7
+Q9UHC1	114500	Colorectal cancer	CRC
+Q92889	278760	Xeroderma pigmentosum complementation group F	XP-F
+Q92889	610965	XFE progeroid syndrome	XFEPS
+Q92889	278760	Xeroderma pigmentosum type F/Cockayne syndrome	XPF/CS
+Q92889	615272	Fanconi anemia complementation group Q	FANCQ
+P06396	105120	Amyloidosis 5	AMYL5
+P02671	202400	Congenital afibrinogenemia	CAFBN
+P02671	105200	Amyloidosis 8	AMYL8
+P02671	616004	Dysfibrinogenemia, congenital	DYSFIBRIN
+P40692	609310	Hereditary non-polyposis colorectal cancer 2	HNPCC2
+P40692	276300	Mismatch repair cancer syndrome	MMRCS
+P40692	158320	Muir-Torre syndrome	MRTES
+P61769	241600	Hypercatabolic hypoproteinemia	HYCATHYP
+P61626	105200	Amyloidosis 8	AMYL8
+Q15582	121820	Corneal dystrophy, epithelial basement membrane	EBMD
+Q15582	121900	Corneal dystrophy, Groenouw type 1	CDGG1
+Q15582	122200	Corneal dystrophy, lattice type 1	CDL1
+Q15582	602082	Corneal dystrophy, Thiel-Behnke type	CDTB
+Q99650	105250	Amyloidosis, primary localized cutaneous, 1	PLCA1
+Q9BXB1	166710	Osteoporosis	OSTEOP
+Q8NI17	613955	Amyloidosis, primary localized cutaneous, 2	PLCA2
+B2CW77	615107	Cowden syndrome 4	CWS4
+P37173	614331	Hereditary non-polyposis colorectal cancer 6	HNPCC6
+P37173	133239	Esophageal cancer	ESCR
+P37173	610168	Loeys-Dietz syndrome 2	LDS2
+O15553	249100	Familial Mediterranean fever, autosomal recessive	ARFMF
+O15553	134610	Familial Mediterranean fever, autosomal dominant	ADFMF
+Q13535	210600	Seckel syndrome 1	SCKL1
+Q13535	614564	Cutaneous telangiectasia and cancer syndrome, familial	FCTCS
+P21912	171300	Pheochromocytoma	PCC
+P21912	115310	Paragangliomas 4	PGL4
+P21912	606864	Paraganglioma and gastric stromal sarcoma	PGGSS
+P21912	612359	Cowden syndrome 2	CWS2
+P09758	204870	Corneal dystrophy, gelatinous drop-like	GDLD
+P16422	613217	Diarrhea 5, with tufting enteropathy, congenital	DIAR5
+P16422	613244	Hereditary non-polyposis colorectal cancer 8	HNPCC8
+P52701	614350	Hereditary non-polyposis colorectal cancer 5	HNPCC5
+P52701	608089	Endometrial cancer	ENDMC
+P52701	276300	Mismatch repair cancer syndrome	MMRCS
+Q96P20	120100	Familial cold autoinflammatory syndrome 1	FCAS1
+Q96P20	191900	Muckle-Wells syndrome	MWS
+Q96P20	607115	Chronic infantile neurologic cutaneous and articular syndrome	CINCA
+O14763	275355	Squamous cell carcinoma of the head and neck	HNSCC
+P01857	254500	Multiple myeloma	MM
+Q9UK53	275355	Squamous cell carcinoma of the head and neck	HNSCC
+P43246	120435	Hereditary non-polyposis colorectal cancer 1	HNPCC1
+P43246	158320	Muir-Torre syndrome	MRTES
+P43246	608089	Endometrial cancer	ENDMC
+P01034	105150	Amyloidosis 6	AMYL6
+P01034	611953	Macular degeneration, age-related, 11	ARMD11
+P14679	203100	Albinism, oculocutaneous, 1A	OCA1A
+P14679	606952	Albinism, oculocutaneous, 1B	OCA1B

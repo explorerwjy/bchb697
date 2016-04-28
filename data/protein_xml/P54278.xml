@@ -1,0 +1,1628 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2016-04-13" version="170">
+<accession>P54278</accession>
+<accession>B2R610</accession>
+<accession>Q52LH6</accession>
+<accession>Q5FBW9</accession>
+<accession>Q5FBX1</accession>
+<accession>Q5FBX2</accession>
+<accession>Q75MR2</accession>
+<name>PMS2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Mismatch repair endonuclease PMS2</fullName>
+<ecNumber>3.1.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>DNA mismatch repair protein PMS2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PMS1 protein homolog 2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PMS2</name>
+<name type="synonym">PMSL2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nature" volume="371" first="75" last="80">
+<title>Mutations of two PMS homologues in hereditary nonpolyposis colon cancer.</title>
+<authorList>
+<person name="Nicolaides N.C."/>
+<person name="Papadopoulos N."/>
+<person name="Liu B."/>
+<person name="Wei Y.-F."/>
+<person name="Carter K.C."/>
+<person name="Ruben S.M."/>
+<person name="Rosen C.A."/>
+<person name="Haseltine W.H."/>
+<person name="Fleischmann R.D."/>
+<person name="Fraser C.M."/>
+<person name="Adams M.D."/>
+<person name="Venter J.C."/>
+<person name="Dunlop M.G."/>
+<person name="Hamilton S.R."/>
+<person name="Petersen G.M."/>
+<person name="de la Chapelle A."/>
+<person name="Vogelstein B."/>
+<person name="Kinzler K.W."/>
+</authorList>
+<dbReference type="PubMed" id="8072530"/>
+<dbReference type="DOI" id="10.1038/371075a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS GLN-20 AND GLU-541</scope>
+<source>
+<tissue>Endometrial tumor</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2003-02" db="EMBL/GenBank/DDBJ databases">
+<title>PMS2 mRNA, nirs splice variants.</title>
+<authorList>
+<person name="Tabata Y."/>
+<person name="Sameshima E."/>
+<person name="Hayashi A."/>
+<person name="Iida K."/>
+<person name="Mitsuyama M."/>
+<person name="Kanai S."/>
+<person name="Furuya T."/>
+<person name="Saito T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2; 3 AND 4)</scope>
+<scope>VARIANT GLU-541</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1994-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Bronner C.E."/>
+<person name="Baker S.M."/>
+<person name="Morrison P.T."/>
+<person name="Warren G."/>
+<person name="Smith L.G."/>
+<person name="Lescoe M.K."/>
+<person name="Kane M.F."/>
+<person name="Earibino C."/>
+<person name="Lipford J."/>
+<person name="Lindblom A."/>
+<person name="Tannergaard P."/>
+<person name="Bollag R.J."/>
+<person name="Godwin A.R."/>
+<person name="Ward D.C."/>
+<person name="Nordenskjoeld M."/>
+<person name="Fishel R."/>
+<person name="Kolodner R.D."/>
+<person name="Liskay R.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS SER-470 AND GLU-541</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS SER-470 AND GLU-541</scope>
+<source>
+<tissue>Amygdala</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS GLU-541 AND ILE-622</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2000" name="Genes Dev." volume="14" first="927" last="939">
+<title>BASC, a super complex of BRCA1-associated proteins involved in the recognition and repair of aberrant DNA structures.</title>
+<authorList>
+<person name="Wang Y."/>
+<person name="Cortez D."/>
+<person name="Yazdi P."/>
+<person name="Neff N."/>
+<person name="Elledge S.J."/>
+<person name="Qin J."/>
+</authorList>
+<dbReference type="PubMed" id="10783165"/>
+</citation>
+<scope>IDENTIFICATION OF PMS2 AS MEMBER OF BASC</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Gastroenterology" volume="128" first="1431" last="1436">
+<title>Familial mutations in PMS2 can cause autosomal dominant hereditary nonpolyposis colorectal cancer.</title>
+<authorList>
+<person name="Worthley D.L."/>
+<person name="Walsh M.D."/>
+<person name="Barker M."/>
+<person name="Ruszkiewicz A."/>
+<person name="Bennett G."/>
+<person name="Phillips K."/>
+<person name="Suthers G."/>
+</authorList>
+<dbReference type="PubMed" id="15887124"/>
+<dbReference type="DOI" id="10.1053/j.gastro.2005.04.008"/>
+</citation>
+<scope>INVOLVEMENT IN HNPCC4</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Cell" volume="126" first="297" last="308">
+<title>Endonucleolytic function of MutLalpha in human mismatch repair.</title>
+<authorList>
+<person name="Kadyrov F.A."/>
+<person name="Dzantiev L."/>
+<person name="Constantin N."/>
+<person name="Modrich P."/>
+</authorList>
+<dbReference type="PubMed" id="16873062"/>
+<dbReference type="DOI" id="10.1016/j.cell.2006.05.039"/>
+</citation>
+<scope>FUNCTION AS AN ENDONUCLEASE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="J. Med. Genet." volume="45" first="340" last="345">
+<title>A frame-shift mutation of PMS2 is a widespread cause of Lynch syndrome.</title>
+<authorList>
+<person name="Clendenning M."/>
+<person name="Senter L."/>
+<person name="Hampel H."/>
+<person name="Robinson K.L."/>
+<person name="Sun S."/>
+<person name="Buchanan D."/>
+<person name="Walsh M.D."/>
+<person name="Nilbert M."/>
+<person name="Green J."/>
+<person name="Potter J."/>
+<person name="Lindblom A."/>
+<person name="de la Chapelle A."/>
+</authorList>
+<dbReference type="PubMed" id="18178629"/>
+<dbReference type="DOI" id="10.1136/jmg.2007.056150"/>
+</citation>
+<scope>INVOLVEMENT IN HNPCC4</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2008" name="Mol. Cell" volume="29" first="112" last="121">
+<title>Direct visualization of asymmetric adenine nucleotide-induced conformational changes in MutL alpha.</title>
+<authorList>
+<person name="Sacho E.J."/>
+<person name="Kadyrov F.A."/>
+<person name="Modrich P."/>
+<person name="Kunkel T.A."/>
+<person name="Erie D.A."/>
+</authorList>
+<dbReference type="PubMed" id="18206974"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2007.10.030"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="39752" last="39761">
+<title>Human mismatch repair: reconstitution of a nick-directed bidirectional reaction.</title>
+<authorList>
+<person name="Constantin N."/>
+<person name="Dzantiev L."/>
+<person name="Kadyrov F.A."/>
+<person name="Modrich P."/>
+</authorList>
+<dbReference type="PubMed" id="16188885"/>
+<dbReference type="DOI" id="10.1074/jbc.M509701200"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2006" name="Cell" volume="126" first="239" last="241">
+<title>MutLalpha: at the cutting edge of mismatch repair.</title>
+<authorList>
+<person name="Jiricny J."/>
+</authorList>
+<dbReference type="PubMed" id="16873053"/>
+<dbReference type="DOI" id="10.1016/j.cell.2006.07.003"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2008" name="Cell Res." volume="18" first="85" last="98">
+<title>Mechanisms and functions of DNA mismatch repair.</title>
+<authorList>
+<person name="Li G.M."/>
+</authorList>
+<dbReference type="PubMed" id="18157157"/>
+<dbReference type="DOI" id="10.1038/cr.2007.115"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2010" name="Mol. Cell" volume="39" first="36" last="47">
+<title>A genetic screen identifies FAN1, a Fanconi anemia-associated nuclease necessary for DNA interstrand crosslink repair.</title>
+<authorList>
+<person name="Smogorzewska A."/>
+<person name="Desetty R."/>
+<person name="Saito T.T."/>
+<person name="Schlabach M."/>
+<person name="Lach F.P."/>
+<person name="Sowa M.E."/>
+<person name="Clark A.B."/>
+<person name="Kunkel T.A."/>
+<person name="Harper J.W."/>
+<person name="Colaiacovo M.P."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="20603073"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2010.06.023"/>
+</citation>
+<scope>INTERACTION WITH MTMR15</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="RA3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-597</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2001" name="EMBO J." volume="20" first="5521" last="5531">
+<title>Structure and function of the N-terminal 40 kDa fragment of human PMS2: a monomeric GHL ATPase.</title>
+<authorList>
+<person name="Guarne A."/>
+<person name="Junop M.S."/>
+<person name="Yang W."/>
+</authorList>
+<dbReference type="PubMed" id="11574484"/>
+<dbReference type="DOI" id="10.1093/emboj/20.19.5521"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 1-364</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1995" name="N. Engl. J. Med." volume="332" first="839" last="847">
+<title>The molecular basis of Turcot's syndrome.</title>
+<authorList>
+<person name="Hamilton S.R."/>
+<person name="Liu B."/>
+<person name="Parsons R.E."/>
+<person name="Papadopoulos N."/>
+<person name="Jen J."/>
+<person name="Powell S.M."/>
+<person name="Krush A.J."/>
+<person name="Berk T."/>
+<person name="Cohen Z."/>
+<person name="Tetu B."/>
+<person name="Burger P.C."/>
+<person name="Wood P.A."/>
+<person name="Taqi F."/>
+<person name="Booker S.V."/>
+<person name="Petersen G.M."/>
+<person name="Offerhaus G.J.A."/>
+<person name="Tersmette A.C."/>
+<person name="Giardiello F.M."/>
+<person name="Vogelstein B."/>
+<person name="Kinzler K.W."/>
+</authorList>
+<dbReference type="PubMed" id="7661930"/>
+<dbReference type="DOI" id="10.1056/NEJM199503303321302"/>
+</citation>
+<scope>INVOLVEMENT IN MMRCS</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1997" name="Oncogene" volume="15" first="2877" last="2881">
+<title>Drastic genetic instability of tumors and normal tissues in Turcot syndrome.</title>
+<authorList>
+<person name="Miyaki M."/>
+<person name="Nishio J."/>
+<person name="Konishi M."/>
+<person name="Kikuchi-Yanoshita R."/>
+<person name="Tanaka K."/>
+<person name="Muraoka M."/>
+<person name="Nagato M."/>
+<person name="Chong J.-M."/>
+<person name="Koike M."/>
+<person name="Terada T."/>
+<person name="Kawahara Y."/>
+<person name="Fukutome A."/>
+<person name="Tomiyama J."/>
+<person name="Chuganji Y."/>
+<person name="Momoi M."/>
+<person name="Utsunomiya J."/>
+</authorList>
+<dbReference type="PubMed" id="9419979"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1201668"/>
+</citation>
+<scope>VARIANT MMRCS LYS-705</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1999" name="Hum. Genet." volume="105" first="79" last="85">
+<title>Prevalence of germline mutations of hMLH1, hMSH2, hPMS1, hPMS2, and hMSH6 genes in 75 French kindreds with nonpolyposis colorectal cancer.</title>
+<authorList>
+<person name="Wang Q."/>
+<person name="Lasset C."/>
+<person name="Desseigne F."/>
+<person name="Saurin J.-C."/>
+<person name="Maugard C."/>
+<person name="Navarro C."/>
+<person name="Ruano E."/>
+<person name="Descos L."/>
+<person name="Trillet-Lenoir V."/>
+<person name="Bosset J.-F."/>
+<person name="Puisieux A."/>
+</authorList>
+<dbReference type="PubMed" id="10480359"/>
+<dbReference type="DOI" id="10.1007/s004399900064"/>
+</citation>
+<scope>VARIANTS GLN-479; LYS-485; ALA-511; SER-597 AND ILE-622</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="19" first="108" last="113">
+<title>Polymorphisms and HNPCC: PMS2-MLH1 protein interactions diminished by single nucleotide polymorphisms.</title>
+<authorList>
+<person name="Yuan Z.Q."/>
+<person name="Gottlieb B."/>
+<person name="Beitel L.K."/>
+<person name="Wong N."/>
+<person name="Gordon P.H."/>
+<person name="Wang Q."/>
+<person name="Puisieux A."/>
+<person name="Foulkes W.D."/>
+<person name="Trifiro M."/>
+</authorList>
+<dbReference type="PubMed" id="11793469"/>
+<dbReference type="DOI" id="10.1002/humu.10040"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANTS SER-597 AND ILE-622</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2004" name="Am. J. Hum. Genet." volume="74" first="954" last="964">
+<title>Novel PMS2 pseudogenes can conceal recessive mutations causing a distinctive childhood cancer syndrome.</title>
+<authorList>
+<person name="De Vos M."/>
+<person name="Hayward B.E."/>
+<person name="Picton S."/>
+<person name="Sheridan E."/>
+<person name="Bonthron D.T."/>
+</authorList>
+<dbReference type="PubMed" id="15077197"/>
+<dbReference type="DOI" id="10.1086/420796"/>
+</citation>
+<scope>INVOLVEMENT IN MMRCS</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2007" name="Hum. Mutat." volume="28" first="1084" last="1090">
+<title>Novel biallelic mutations in MSH6 and PMS2 genes: gene conversion as a likely cause of PMS2 gene inactivation.</title>
+<authorList>
+<person name="Auclair J."/>
+<person name="Leroux D."/>
+<person name="Desseigne F."/>
+<person name="Lasset C."/>
+<person name="Saurin J.C."/>
+<person name="Joly M.O."/>
+<person name="Pinson S."/>
+<person name="Xu X.L."/>
+<person name="Montmain G."/>
+<person name="Ruano E."/>
+<person name="Navarro C."/>
+<person name="Puisieux A."/>
+<person name="Wang Q."/>
+</authorList>
+<dbReference type="PubMed" id="17557300"/>
+<dbReference type="DOI" id="10.1002/humu.20569"/>
+</citation>
+<scope>VARIANT MMRCS ILE-46</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2013" name="J. Med. Genet." volume="50" first="552" last="563">
+<title>Refining the role of PMS2 in Lynch syndrome: germline mutational analysis improved by comprehensive assessment of variants.</title>
+<authorList>
+<person name="Borras E."/>
+<person name="Pineda M."/>
+<person name="Cadinanos J."/>
+<person name="Del Valle J."/>
+<person name="Brieger A."/>
+<person name="Hinrichsen I."/>
+<person name="Cabanillas R."/>
+<person name="Navarro M."/>
+<person name="Brunet J."/>
+<person name="Sanjuan X."/>
+<person name="Musulen E."/>
+<person name="van der Klift H."/>
+<person name="Lazaro C."/>
+<person name="Plotz G."/>
+<person name="Blanco I."/>
+<person name="Capella G."/>
+</authorList>
+<dbReference type="PubMed" id="23709753"/>
+<dbReference type="DOI" id="10.1136/jmedgenet-2012-101511"/>
+</citation>
+<scope>VARIANT HNPCC4 ILE-46</scope>
+<scope>VARIANTS GLN-20; SER-470; SER-597 AND SER-775</scope>
+<scope>CHARACTERIZATION OF VARIANT HNPCC4 ILE-46</scope>
+<scope>CHARACTERIZATION OF VARIANTS GLN-20 AND SER-470</scope>
+<scope>MUTAGENESIS OF ASP-70</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<comment type="function">
+<text evidence="9 12 14">Component of the post-replicative DNA mismatch repair system (MMR). Heterodimerizes with MLH1 to form MutL alpha. DNA repair is initiated by MutS alpha (MSH2-MSH6) or MutS beta (MSH2-MSH6) binding to a dsDNA mismatch, then MutL alpha is recruited to the heteroduplex. Assembly of the MutL-MutS-heteroduplex ternary complex in presence of RFC and PCNA is sufficient to activate endonuclease activity of PMS2. It introduces single-strand breaks near the mismatch and thus generates new entry points for the exonuclease EXO1 to degrade the strand containing the mismatch. DNA methylation would prevent cleavage and therefore assure that only the newly mutated DNA strand is going to be corrected. MutL alpha (MLH1-PMS2) interacts physically with the clamp loader subunits of DNA polymerase III, suggesting that it may play a role to recruit the DNA polymerase III to the site of the MMR. Also implicated in DNA damage signaling, a process which induces cell cycle arrest and can lead to apoptosis in case of major DNA damages.</text>
+</comment>
+<comment type="subunit">
+<text evidence="13">Heterodimer of PMS2 and MLH1 (MutL alpha). Forms a ternary complex with MutS alpha (MSH2-MSH6) or MutS beta (MSH2-MSH3). Part of the BRCA1-associated genome surveillance complex (BASC), which contains BRCA1, MSH2, MSH6, MLH1, ATM, BLM, PMS2 and the RAD50-MRE11-NBS1 protein complex. This association could be a dynamic process changing throughout the cell cycle and within subnuclear domains. Interacts with MTMR15/FAN1.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1162561"/>
+<interactant intactId="EBI-744248">
+<id>P40692</id>
+<label>MLH1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="14">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P54278-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P54278-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_029386"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>P54278-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_029387 VSP_029388"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>P54278-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_029384 VSP_029385"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="disease" evidence="8 11 14">
+<disease id="DI-00553">
+<name>Hereditary non-polyposis colorectal cancer 4</name>
+<acronym>HNPCC4</acronym>
+<description>An autosomal dominant disease associated with marked increase in cancer susceptibility. It is characterized by a familial predisposition to early-onset colorectal carcinoma (CRC) and extra-colonic tumors of the gastrointestinal, urological and female reproductive tracts. HNPCC is reported to be the most common form of inherited colorectal cancer in the Western world. Clinically, HNPCC is often divided into two subgroups. Type I is characterized by hereditary predisposition to colorectal cancer, a young age of onset, and carcinoma observed in the proximal colon. Type II is characterized by increased risk for cancers in certain tissues such as the uterus, ovary, breast, stomach, small intestine, skin, and larynx in addition to the colon. Diagnosis of classical HNPCC is based on the Amsterdam criteria: 3 or more relatives affected by colorectal cancer, one a first degree relative of the other two; 2 or more generation affected; 1 or more colorectal cancers presenting before 50 years of age; exclusion of hereditary polyposis syndromes. The term 'suspected HNPCC' or 'incomplete HNPCC' can be used to describe families who do not or only partially fulfill the Amsterdam criteria, but in whom a genetic basis for colon cancer is strongly suspected.</description>
+<dbReference type="MIM" id="614337"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="6 10 15 17">
+<disease id="DI-01980">
+<name>Mismatch repair cancer syndrome</name>
+<acronym>MMRCS</acronym>
+<description>An autosomal recessive, rare, childhood cancer predisposition syndrome encompassing a broad tumor spectrum. This includes hematological malignancies, central nervous system tumors, Lynch syndrome-associated malignancies such as colorectal tumors as well as multiple intestinal polyps, embryonic tumors and rhabdomyosarcoma. Multiple cafe-au-lait macules, a feature reminiscent of neurofibromatosis type 1, are often found as first manifestation of the underlying cancer. Areas of skin hypopigmentation have also been reported in MMRCS patients.</description>
+<dbReference type="MIM" id="276300"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="21">Belongs to the DNA mismatch repair MutL/HexB family.</text>
+</comment>
+<comment type="online information" name="Hereditary non-polyposis colorectal cancer db">
+<link uri="http://www.nfdht.nl/"/>
+</comment>
+<dbReference type="EC" id="3.1.-.-"/>
+<dbReference type="EMBL" id="U13696">
+<property type="protein sequence ID" value="AAA63923.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB103082">
+<property type="protein sequence ID" value="BAD89425.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB103083">
+<property type="protein sequence ID" value="BAD89426.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB103085">
+<property type="protein sequence ID" value="BAD89428.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14658">
+<property type="protein sequence ID" value="AAA50390.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK312390">
+<property type="protein sequence ID" value="BAG35307.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005995">
+<property type="protein sequence ID" value="AAS00390.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC093921">
+<property type="protein sequence ID" value="AAH93921.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5343.1">
+<molecule id="P54278-1"/>
+</dbReference>
+<dbReference type="PIR" id="S47598">
+<property type="entry name" value="S47598"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000526.1">
+<property type="nucleotide sequence ID" value="NM_000535.5"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.632637"/>
+<dbReference type="UniGene" id="Hs.715590"/>
+<dbReference type="PDB" id="1EA6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=1-364"/>
+</dbReference>
+<dbReference type="PDB" id="1H7S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=1-365"/>
+</dbReference>
+<dbReference type="PDB" id="1H7U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=1-365"/>
+</dbReference>
+<dbReference type="PDBsum" id="1EA6"/>
+<dbReference type="PDBsum" id="1H7S"/>
+<dbReference type="PDBsum" id="1H7U"/>
+<dbReference type="ProteinModelPortal" id="P54278"/>
+<dbReference type="SMR" id="P54278">
+<property type="residue range" value="29-365, 658-856"/>
+</dbReference>
+<dbReference type="BioGrid" id="111404">
+<property type="interactions" value="55"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-27602N"/>
+<dbReference type="IntAct" id="P54278">
+<property type="interactions" value="24"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-2804140"/>
+<dbReference type="STRING" id="9606.ENSP00000265849"/>
+<dbReference type="iPTMnet" id="P54278"/>
+<dbReference type="PhosphoSite" id="P54278"/>
+<dbReference type="BioMuta" id="PMS2"/>
+<dbReference type="DMDM" id="317373266"/>
+<dbReference type="SWISS-2DPAGE" id="P54278"/>
+<dbReference type="EPD" id="P54278"/>
+<dbReference type="MaxQB" id="P54278"/>
+<dbReference type="PaxDb" id="P54278"/>
+<dbReference type="PRIDE" id="P54278"/>
+<dbReference type="Ensembl" id="ENST00000265849">
+<molecule id="P54278-1"/>
+<property type="protein sequence ID" value="ENSP00000265849"/>
+<property type="gene ID" value="ENSG00000122512"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000382321">
+<molecule id="P54278-2"/>
+<property type="protein sequence ID" value="ENSP00000371758"/>
+<property type="gene ID" value="ENSG00000122512"/>
+</dbReference>
+<dbReference type="GeneID" id="5395"/>
+<dbReference type="KEGG" id="hsa:5395"/>
+<dbReference type="UCSC" id="uc003spl.4">
+<molecule id="P54278-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5395"/>
+<dbReference type="GeneCards" id="PMS2"/>
+<dbReference type="GeneReviews" id="PMS2"/>
+<dbReference type="HGNC" id="HGNC:9122">
+<property type="gene designation" value="PMS2"/>
+</dbReference>
+<dbReference type="HPA" id="CAB010235"/>
+<dbReference type="HPA" id="HPA043839"/>
+<dbReference type="HPA" id="HPA044400"/>
+<dbReference type="MalaCards" id="PMS2"/>
+<dbReference type="MIM" id="276300">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="600259">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="614337">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P54278"/>
+<dbReference type="Orphanet" id="252202">
+<property type="disease" value="Constitutional mismatch repair deficiency syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="144">
+<property type="disease" value="Hereditary nonpolyposis colon cancer"/>
+</dbReference>
+<dbReference type="Orphanet" id="99817">
+<property type="disease" value="Non-polyposis Turcot syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA33448"/>
+<dbReference type="eggNOG" id="KOG1978">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0323">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00530000063289"/>
+<dbReference type="HOGENOM" id="HOG000165474"/>
+<dbReference type="HOVERGEN" id="HBG008219"/>
+<dbReference type="InParanoid" id="P54278"/>
+<dbReference type="KO" id="K10858"/>
+<dbReference type="OMA" id="GQFNHGF"/>
+<dbReference type="OrthoDB" id="EOG76QFGS"/>
+<dbReference type="PhylomeDB" id="P54278"/>
+<dbReference type="TreeFam" id="TF300711"/>
+<dbReference type="Reactome" id="R-HSA-5358565">
+<property type="pathway name" value="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5358606">
+<property type="pathway name" value="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P54278"/>
+<dbReference type="GeneWiki" id="PMS2"/>
+<dbReference type="GenomeRNAi" id="5395"/>
+<dbReference type="NextBio" id="20918"/>
+<dbReference type="PRO" id="PR:P54278"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="P54278"/>
+<dbReference type="CleanEx" id="HS_PMS2"/>
+<dbReference type="ExpressionAtlas" id="P54278">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P54278">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015630">
+<property type="term" value="C:microtubule cytoskeleton"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032389">
+<property type="term" value="C:MutLalpha complex"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004519">
+<property type="term" value="F:endonuclease activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032138">
+<property type="term" value="F:single base insertion or deletion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006298">
+<property type="term" value="P:mismatch repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090305">
+<property type="term" value="P:nucleic acid phosphodiester bond hydrolysis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042493">
+<property type="term" value="P:response to drug"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016446">
+<property type="term" value="P:somatic hypermutation of immunoglobulin genes"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016447">
+<property type="term" value="P:somatic recombination of immunoglobulin gene segments"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.230.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.565.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013507">
+<property type="entry name" value="DNA_mismatch_repair_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014762">
+<property type="entry name" value="DNA_mismatch_repair_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002099">
+<property type="entry name" value="DNA_mismatch_repair_fam"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003594">
+<property type="entry name" value="HATPase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014790">
+<property type="entry name" value="MutL_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028831">
+<property type="entry name" value="Pms1/Pms2/PMS2L"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014721">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold_subgr"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10073:SF39">
+<property type="entry name" value="PTHR10073:SF39"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01119">
+<property type="entry name" value="DNA_mis_repair"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08676">
+<property type="entry name" value="MutL_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00387">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00853">
+<property type="entry name" value="MutL_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55874">
+<property type="entry name" value="SSF55874"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00585">
+<property type="entry name" value="mutl"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00058">
+<property type="entry name" value="DNA_MISMATCH_REPAIR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0362">Hereditary nonpolyposis colorectal cancer</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0043">Tumor suppressor</keyword>
+<feature type="chain" description="Mismatch repair endonuclease PMS2" id="PRO_0000178005">
+<location>
+<begin position="1"/>
+<end position="862"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="2">
+<location>
+<position position="597"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_029384" evidence="20">
+<original>EYAK</original>
+<variation>QASV</variation>
+<location>
+<begin position="180"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_029385" evidence="20">
+<location>
+<begin position="184"/>
+<end position="862"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_029386" evidence="20">
+<location>
+<begin position="269"/>
+<end position="669"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_029387" evidence="20">
+<original>CKFRVLPQPTNLA</original>
+<variation>LKTGPSDPRTSMN</variation>
+<location>
+<begin position="560"/>
+<end position="572"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_029388" evidence="20">
+<location>
+<begin position="573"/>
+<end position="862"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Neutral polymorphism; no effect on protein abundance; no effect on subcellular localization; normal DNA mismatch repair activity; dbSNP:rs10254120." id="VAR_004469" evidence="14 16">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MMRCS and HNPCC4; no effect on protein abundance; no effect on subcellular localization; decreased DNA mismatch repair activity." id="VAR_066838" evidence="10 14">
+<original>S</original>
+<variation>I</variation>
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1805322." id="VAR_016133">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="277"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Neutral polymorphism; no effect on protein abundance; no effect on subcellular localalization; normal DNA mismatch repair activity; dbSNP:rs1805321." id="VAR_016134" evidence="5 14 19">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="470"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_012969" evidence="3">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="479"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1805323." id="VAR_012970" evidence="3">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="485"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2228007." id="VAR_012971" evidence="3">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="511"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2228006." id="VAR_024541" evidence="5 7 16 18 19">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="541"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May be associated with increased susceptibility to colorectal cancer; significantly reduced interaction with MLH1; dbSNP:rs1805318." id="VAR_012972" evidence="3 4 14">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="597"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May be associated with increased susceptibility to colorectal cancer; significantly reduced interaction with MLH1; dbSNP:rs1805324." id="VAR_012973" evidence="3 4 7">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="622"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MMRCS; unknown pathological significance." id="VAR_012974" evidence="17">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="705"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17420802." id="VAR_016135" evidence="14">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="775"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on protein abundance, no effect on subcellular localization and loss of DNA mismatch repair activity." evidence="14">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="30"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="35"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="52"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="60"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="64"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="77"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="81"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="101"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="110"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="118"/>
+<end position="125"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="133"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="143"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="153"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="162"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="167"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="177"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="199"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="211"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="223"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="233"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="239"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="249"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="259"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="268"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="278"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="281"/>
+<end position="285"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="288"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="295"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="300"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="321"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="329"/>
+<end position="331"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="332"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="343"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="348"/>
+<end position="363"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1H7S"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10480359"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11793469"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15077197"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15887124"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16873062"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17557300"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18178629"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18206974"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20603073"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23709753"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7661930"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8072530"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9419979"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source ref="2"/>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="20" type="ECO:0000303">
+<source ref="2"/>
+</evidence>
+<evidence key="21" type="ECO:0000305"/>
+<sequence length="862" mass="95797" checksum="B1B9547280ECAF9A" modified="2011-01-11" version="2">
+MERAESSSTEPAKAIKPIDRKSVHQICSGQVVLSLSTAVKELVENSLDAGATNIDLKLKD
+YGVDLIEVSDNGCGVEEENFEGLTLKHHTSKIQEFADLTQVETFGFRGEALSSLCALSDV
+TISTCHASAKVGTRLMFDHNGKIIQKTPYPRPRGTTVSVQQLFSTLPVRHKEFQRNIKKE
+YAKMVQVLHAYCIISAGIRVSCTNQLGQGKRQPVVCTGGSPSIKENIGSVFGQKQLQSLI
+PFVQLPPSDSVCEEYGLSCSDALHNLFYISGFISQCTHGVGRSSTDRQFFFINRRPCDPA
+KVCRLVNEVYHMYNRHQYPFVVLNISVDSECVDINVTPDKRQILLQEEKLLLAVLKTSLI
+GMFDSDVNKLNVSQQPLLDVEGNLIKMHAADLEKPMVEKQDQSPSLRTGEEKKDVSISRL
+REAFSLRHTTENKPHSPKTPEPRRSPLGQKRGMLSSSTSGAISDKGVLRPQKEAVSSSHG
+PSDPTDRAEVEKDSGHGSTSVDSEGFSIPDTGSHCSSEYAASSPGDRGSQEHVDSQEKAP
+KTDDSFSDVDCHSNQEDTGCKFRVLPQPTNLATPNTKRFKKEEILSSSDICQKLVNTQDM
+SASQVDVAVKINKKVVPLDFSMSSLAKRIKQLHHEAQQSEGEQNYRKFRAKICPGENQAA
+EDELRKEISKTMFAEMEIIGQFNLGFIITKLNEDIFIVDQHATDEKYNFEMLQQHTVLQG
+QRLIAPQTLNLTAVNEAVLIENLEIFRKNGFDFVIDENAPVTERAKLISLPTSKNWTFGP
+QDVDELIFMLSDSPGVMCRPSRVKQMFASRACRKSVMIGTALNTSEMKKLITHMGEMDHP
+WNCPHGRPTMRHIANLGVISQN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,23 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+P05067	A4_HUMAN	reviewed	Amyloid beta A4 protein (ABPP) (APPI) (APP) (Alzheimer disease amyloid protein) (Cerebral vascular amyloid peptide) (CVAP) (PreA4) (Protease nexin-II) (PN-II) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Amyloid intracellular domain 59) (AICD-59) (AID(59)) (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Amyloid intracellular domain 57) (AICD-57) (AID(57)) (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Amyloid intracellular domain 50) (AICD-50) (AID(50)) (Gamma-CTF(50)); C31]	APP A4 AD1	Homo sapiens (Human)	770
+P02647	APOA1_HUMAN	reviewed	Apolipoprotein A-I (Apo-AI) (ApoA-I) (Apolipoprotein A1) [Cleaved into: Proapolipoprotein A-I (ProapoA-I); Truncated apolipoprotein A-I (Apolipoprotein A-I(1-242))]	APOA1	Homo sapiens (Human)	267
+P22607	FGFR3_HUMAN	reviewed	Fibroblast growth factor receptor 3 (FGFR-3) (EC 2.7.10.1) (CD antigen CD333)	FGFR3 JTK4	Homo sapiens (Human)	806
+P02671	FIBA_HUMAN	reviewed	Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibrinogen alpha chain]	FGA	Homo sapiens (Human)	866
+P04156	PRIO_HUMAN	reviewed	Major prion protein (PrP) (ASCR) (PrP27-30) (PrP33-35C) (CD antigen CD230)	PRNP ALTPRP PRIP PRP	Homo sapiens (Human)	253
+Q96P20	NLRP3_HUMAN	reviewed	NACHT, LRR and PYD domains-containing protein 3 (Angiotensin/vasopressin receptor AII/AVP-like) (Caterpiller protein 1.1) (CLR1.1) (Cold-induced autoinflammatory syndrome 1 protein) (Cryopyrin) (PYRIN-containing APAF1-like protein 1)	NLRP3 C1orf7 CIAS1 NALP3 PYPAF1	Homo sapiens (Human)	1036
+P06396	GELS_HUMAN	reviewed	Gelsolin (AGEL) (Actin-depolymerizing factor) (ADF) (Brevin)	GSN	Homo sapiens (Human)	782
+P02766	TTHY_HUMAN	reviewed	Transthyretin (ATTR) (Prealbumin) (TBPA)	TTR PALB	Homo sapiens (Human)	147
+O15553	MEFV_HUMAN	reviewed	Pyrin (Marenostrin)	MEFV MEF TRIM20	Homo sapiens (Human)	781
+P61769	B2MG_HUMAN	reviewed	Beta-2-microglobulin [Cleaved into: Beta-2-microglobulin form pI 5.3]	B2M CDABP0092 HDCMA22P	Homo sapiens (Human)	119
+P24385	CCND1_HUMAN	reviewed	G1/S-specific cyclin-D1 (B-cell lymphoma 1 protein) (BCL-1) (BCL-1 oncogene) (PRAD1 oncogene)	CCND1 BCL1 PRAD1	Homo sapiens (Human)	295
+P19438	TNR1A_HUMAN	reviewed	Tumor necrosis factor receptor superfamily member 1A (Tumor necrosis factor receptor 1) (TNF-R1) (Tumor necrosis factor receptor type I) (TNF-RI) (TNFR-I) (p55) (p60) (CD antigen CD120a) [Cleaved into: Tumor necrosis factor receptor superfamily member 1A, membrane form; Tumor necrosis factor-binding protein 1 (TBPI)]	TNFRSF1A TNFAR TNFR1	Homo sapiens (Human)	455
+P01034	CYTC_HUMAN	reviewed	Cystatin-C (Cystatin-3) (Gamma-trace) (Neuroendocrine basic polypeptide) (Post-gamma-globulin)	CST3	Homo sapiens (Human)	146
+Q15582	BGH3_HUMAN	reviewed	Transforming growth factor-beta-induced protein ig-h3 (Beta ig-h3) (Kerato-epithelin) (RGD-containing collagen-associated protein) (RGD-CAP)	TGFBI BIGH3	Homo sapiens (Human)	683
+P0DJI8	SAA1_HUMAN	reviewed	Serum amyloid A-1 protein (SAA) [Cleaved into: Amyloid protein A (Amyloid fibril protein AA); Serum amyloid protein A(2-104); Serum amyloid protein A(3-104); Serum amyloid protein A(2-103); Serum amyloid protein A(2-102); Serum amyloid protein A(4-101)]	SAA1	Homo sapiens (Human)	122
+Q8NI17	IL31R_HUMAN	reviewed	Interleukin-31 receptor subunit alpha (IL-31 receptor subunit alpha) (IL-31R subunit alpha) (IL-31R-alpha) (IL-31RA) (Cytokine receptor-like 3) (GLM-R) (hGLM-R) (Gp130-like monocyte receptor) (Gp130-like receptor) (ZcytoR17)	IL31RA CRL3 GPL UNQ6368/PRO21073/PRO21384	Homo sapiens (Human)	732
+Q15306	IRF4_HUMAN	reviewed	Interferon regulatory factor 4 (IRF-4) (Lymphocyte-specific interferon regulatory factor) (LSIRF) (Multiple myeloma oncogene 1) (NF-EM5)	IRF4 MUM1	Homo sapiens (Human)	451
+P09758	TACD2_HUMAN	reviewed	Tumor-associated calcium signal transducer 2 (Cell surface glycoprotein Trop-2) (Membrane component chromosome 1 surface marker 1) (Pancreatic carcinoma marker protein GA733-1)	TACSTD2 GA733-1 M1S1 TROP2	Homo sapiens (Human)	323
+Q99650	OSMR_HUMAN	reviewed	Oncostatin-M-specific receptor subunit beta (Interleukin-31 receptor subunit beta) (IL-31 receptor subunit beta) (IL-31R subunit beta) (IL-31R-beta) (IL-31RB)	OSMR OSMRB	Homo sapiens (Human)	979
+P61626	LYSC_HUMAN	reviewed	Lysozyme C (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)	LYZ LZM	Homo sapiens (Human)	148
+P01857	IGHG1_HUMAN	reviewed	Ig gamma-1 chain C region	IGHG1	Homo sapiens (Human)	330
+P0DJI9	SAA2_HUMAN	reviewed	Serum amyloid A-2 protein (SAA2)	SAA2	Homo sapiens (Human)	122

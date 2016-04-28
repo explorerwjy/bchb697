@@ -1,0 +1,115 @@
+{"omim": { 
+"version": "1.0",
+"entryList": [ 
+{"entry": { 
+"prefix": "#", 
+"mimNumber": 613244, 
+"status": "live", 
+"titles": { 
+"preferredTitle": "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 8; HNPCC8"
+} , 
+"textSectionList": [ 
+{"textSection": { 
+"textSectionName": "text", 
+"textSectionTitle": "Text", 
+"textSectionContent": "A number sign (#) is used with this entry because this form of hereditary nonpolyposis colorectal cancer results from heterozygous deletion of 3-prime exons of the EPCAM gene ({185535}) and intergenic regions directly upstream of the MSH2 gene ({609309}), resulting in transcriptional read-through and epigenetic silencing of MSH2 in tissues expressing EPCAM.\n\nFor a phenotypic description and a discussion of genetic heterogeneity of hereditary nonpolyposis colorectal cancer (HNPCC), see HNPCC1 ({120435})."
+} },
+{"textSection": { 
+"textSectionName": "molecularGenetics", 
+"textSectionTitle": "Molecular Genetics", 
+"textSectionContent": "{1:Chan et al. (2006)} reported inheritance of germline allele-specific and mosaic hypermethylation of the MSH2 gene ({609309}), without evidence of DNA mismatch repair gene mutation, in a 3-generation Chinese family. Three sibs carrying the germline methylation developed early-onset colorectal or endometrial cancers, all with microsatellite instability and MSH2 protein loss. Clonal bisulfite sequencing and pyrosequencing showed different methylation levels in different somatic tissues, with the highest level recorded in rectal mucosa and colon cancer tissue, and the lowest in blood leukocytes. {1:Chan et al. (2006)} postulated that this mosaic state of germline methylation with different tissue distribution could act as the first hit and provide a mechanism for genetic disease inheritance that may deviate from the mendelian pattern and be overlooked in conventional leukocyte-based genetic diagnosis strategy.\n\nIn 4 Dutch and 2 Chinese families with Lynch syndrome (HNPCC), including the family studied by {1:Chan et al. (2006)} with heritable MSH2 promoter methylation, {3:Ligtenberg et al. (2009)} detected deletions of the 3-prime end of the EPCAM gene that led to inactivation of the adjacent MSH2 gene through methylation induction of its promoter in tissues expressing EPCAM. In 4 Dutch families with colorectal cancer showing high microsatellite instability and loss of MSH2 protein, but in which no mutations in MSH2 were found, {3:Ligtenberg et al. (2009)} detected a 5-kb deletion encompassing the 2 most 3-prime exons of the EPCAM gene but leaving the promoter of the MSH2 gene intact ({185535.0005}). In the family of {1:Chan et al. (2006)} and in another unrelated Chinese family, they found a 22.8-kb deletion encompassing the 3-prime end of EPCAM and leaving the MSH2 promoter intact ({185535.0006}). The deletions included the polyadenylation signal of EPCAM and abolished transcriptional termination, leading to transcription read-through into the downstream MSH2 gene. Methylation occurred only in tissues expressing EpCAM among which are the main target tissues in Lynch syndrome. {3:Ligtenberg et al. (2009)} concluded that based on their findings, transcriptional read-through due to deletion of polyadenylation signals may constitute a general mutational mechanism for the inactivation of neighboring genes.\n\n{2:Kuiper et al. (2011)} analyzed 45 Lynch syndrome families with EPCAM deletions, including 27 families ascertained through targeted genomic screens in cohorts of unexplained Lynch-like families and 18 previously studied families with known EPCAM deletions. Overall, 19 different deletions were found, all of which included the last 2 exons and the transcription termination signal of EPCAM. Within the Netherlands and Germany, EPCAM deletions appeared to represent at least 2.8% and 1.1% of the confirmed Lynch syndrome families, respectively. {2:Kuiper et al. (2011)} concluded that 3-prime EPCAM deletions are a recurrent cause of Lynch syndrome and should be sought in routine Lynch syndrome diagnostic testing."
+} 
+} ] , 
+"clinicalSynopsisExists": false, 
+"referenceList": [ 
+{"reference": { 
+"mimNumber": 613244, 
+"referenceNumber": 1, 
+"authors": "Chan, T. L., Yuen, S. T., Kong, C. K., Chan, Y. W., Chan, A. S. Y., Ng, W. F., Tsui, W. Y., Lo, M. W. S., Tam, W. Y., Li, V. S. W., Leung, S. Y.", 
+"title": "Heritable germline epimutation of MSH2 in a family with hereditary nonpolyposis colorectal cancer.", 
+"source": "Nature Genet. 38: 1178-1183, 2006.", 
+"pubmedID": 16951683, 
+"pubmedImages": false, 
+"articleUrl": "http://dx.doi.org/10.1038/ng1866", 
+"publisherAbbreviation": "NPG", 
+"publisherName": "Nature Publishing Group", 
+"publisherUrl": "http://www.nature.com"
+} },
+{"reference": { 
+"mimNumber": 613244, 
+"referenceNumber": 2, 
+"authors": "Kuiper, R. P., Vissers, L. E. L. M., Venkatachalam, R., Bodmer, D., Hoenselaar, E., Goossens, M., Haufe, A., Kamping, E., Niessen, R. C., Hogervorst, F. B. L., Gille, J. J. P., Redeker, B., {and 23 others}", 
+"title": "Recurrence and variability of germline EPCAM deletions in Lynch syndrome.", 
+"source": "Hum. Mutat. 32: 407-414, 2011.", 
+"pubmedID": 21309036, 
+"pubmedImages": false, 
+"articleUrl": "http://dx.doi.org/10.1002/humu.21446", 
+"publisherAbbreviation": "Wiley", 
+"publisherName": "John Wiley & Sons, Inc.", 
+"publisherUrl": "http://www.interscience.wiley.com/"
+} },
+{"reference": { 
+"mimNumber": 613244, 
+"referenceNumber": 3, 
+"authors": "Ligtenberg, M. J. L., Kuiper, R. P., Chan, T. L., Goossens, M., Hebeda, K. M., Voorendt, M., Lee, T. Y. H., Bodmer, D., Hoenselaar, E., Hendriks-Cornelissen, S. J. B., Tsui, W. Y., Kong, C. K., Brunner, H. G., Geurts van Kessel, A., Yuen, S. T., van Krieken, J. H. J. M., Leung, S. Y., Hoogerbrugge, N.", 
+"title": "Heritable somatic methylation and inactivation of MSH2 in families with Lynch syndrome due to deletion of the 3-prime exons of TACSTD1.", 
+"source": "Nature Genet. 41: 112-117, 2009.", 
+"pubmedID": 19098912, 
+"pubmedImages": false, 
+"articleUrl": "http://dx.doi.org/10.1038/ng.283", 
+"publisherAbbreviation": "NPG", 
+"publisherName": "Nature Publishing Group", 
+"publisherUrl": "http://www.nature.com"
+} 
+} ] , 
+"phenotypeMapExists": true, 
+"phenotypicSeriesExists": true, 
+"phenotypeMapList": [ 
+{"phenotypeMap": { 
+"mimNumber": 185535, 
+"phenotype": "Colorectal cancer, hereditary nonpolyposis, type 8", 
+"phenotypeMimNumber": 613244, 
+"phenotypicSeriesNumber": "PS120435", 
+"phenotypeMappingKey": 3, 
+"phenotypeInheritance": null, 
+"sequenceID": 1773, 
+"chromosome": 2, 
+"chromosomeSymbol": "2", 
+"chromosomeSort": 198, 
+"chromosomeLocationStart": 47369147, 
+"chromosomeLocationEnd": 47387027, 
+"transcript": "uc002rvx.4", 
+"cytoLocation": "2p21", 
+"computedCytoLocation": "2p21", 
+"geneSymbols": "EPCAM, ACSTD1, TROP1, M4S1, MIC18, DIAR5, HNPCC8", 
+"geneInheritance": null
+} 
+} ] , 
+"externalLinks": { 
+"swissProtIDs": "P16422", 
+"mgiHumanDisease": true, 
+"wormbaseDO": false, 
+"nbkIDs": "NBK1211;;Lynch Syndrome", 
+"dermAtlas": false, 
+"orphanetDiseases": "144;;3245;;Lynch syndrome", 
+"umlsIDs": "C2750471", 
+"nextGxDx": false, 
+"gtr": true, 
+"geneTests": false, 
+"diseaseOntologyIDs": "3883", 
+"geneticAllianceIDs": "8531", 
+"cmgGene": false, 
+"keggPathways": false, 
+"gwasCatalog": false, 
+"clinGen": false
+} , 
+"contributors": "Marla J. F. O'Neill - updated : 9/14/2011", 
+"creationDate": "Ada Hamosh : 2/4/2010", 
+"editHistory": "carol : 09/14/2011\nterry : 9/14/2011\nwwang : 5/11/2011\nalopez : 2/4/2010", 
+"epochCreated": 1265270400, 
+"dateCreated": "Thu, 04 Feb 2010 03:00:00 EST", 
+"epochUpdated": 1315983600, 
+"dateUpdated": "Wed, 14 Sep 2011 03:00:00 EDT"
+} 
+} ] 
+} }

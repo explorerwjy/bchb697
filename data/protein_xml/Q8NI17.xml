@@ -1,0 +1,1300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-02-06" modified="2016-03-16" version="119">
+<accession>Q8NI17</accession>
+<accession>A6NIF8</accession>
+<accession>Q2TBA1</accession>
+<accession>Q6EBC3</accession>
+<accession>Q6EBC4</accession>
+<accession>Q6EBC5</accession>
+<accession>Q6EBC6</accession>
+<accession>Q6UWL8</accession>
+<accession>Q8WYJ0</accession>
+<name>IL31R_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Interleukin-31 receptor subunit alpha</fullName>
+<shortName>IL-31 receptor subunit alpha</shortName>
+<shortName>IL-31R subunit alpha</shortName>
+<shortName>IL-31R-alpha</shortName>
+<shortName>IL-31RA</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Cytokine receptor-like 3</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>GLM-R</fullName>
+<shortName>hGLM-R</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Gp130-like monocyte receptor</fullName>
+<shortName>Gp130-like receptor</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>ZcytoR17</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">IL31RA</name>
+<name type="synonym">CRL3</name>
+<name type="synonym">GPL</name>
+<name type="ORF">UNQ6368/PRO21073/PRO21384</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="16831" last="16836">
+<title>A novel type I cytokine receptor is expressed on monocytes, signals proliferation, and activates STAT-3 and STAT-5.</title>
+<authorList>
+<person name="Ghilardi N."/>
+<person name="Li J."/>
+<person name="Hongo J.-A."/>
+<person name="Yi S."/>
+<person name="Gurney A."/>
+<person name="De Sauvage F.J."/>
+</authorList>
+<dbReference type="PubMed" id="11877449"/>
+<dbReference type="DOI" id="10.1074/jbc.M201140200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nat. Immunol." volume="5" first="752" last="760">
+<title>Interleukin 31, a cytokine produced by activated T cells, induces dermatitis in mice.</title>
+<authorList>
+<person name="Dillon S.R."/>
+<person name="Sprecher C."/>
+<person name="Hammond A."/>
+<person name="Bilsborough J."/>
+<person name="Rosenfeld-Franklin M."/>
+<person name="Presnell S.R."/>
+<person name="Haugen H.S."/>
+<person name="Maurer M."/>
+<person name="Harder B."/>
+<person name="Johnston J."/>
+<person name="Bort S."/>
+<person name="Mudri S."/>
+<person name="Kuijper J.L."/>
+<person name="Bukowski T."/>
+<person name="Shea P."/>
+<person name="Dong D.L."/>
+<person name="Dasovich M."/>
+<person name="Grant F.J."/>
+<person name="Lockwood L."/>
+<person name="Levin S.D."/>
+<person name="LeCiel C."/>
+<person name="Waggie K."/>
+<person name="Day H."/>
+<person name="Topouzis S."/>
+<person name="Kramer J."/>
+<person name="Kuestner R."/>
+<person name="Chen Z."/>
+<person name="Foster D."/>
+<person name="Parrish-Novak J."/>
+<person name="Gross J.A."/>
+</authorList>
+<dbReference type="PubMed" id="15184896"/>
+<dbReference type="DOI" id="10.1038/ni1084"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 2; 3; 4 AND 5)</scope>
+<scope>FUNCTION</scope>
+<scope>OLIGOMERIZATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1998-11" db="EMBL/GenBank/DDBJ databases">
+<title>A novel soluble type 1 cytokine receptor.</title>
+<authorList>
+<person name="Zhang W."/>
+<person name="Wan T."/>
+<person name="He L."/>
+<person name="Yuan Z."/>
+<person name="Cao X."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 7)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Genome Res." volume="13" first="2265" last="2270">
+<title>The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment.</title>
+<authorList>
+<person name="Clark H.F."/>
+<person name="Gurney A.L."/>
+<person name="Abaya E."/>
+<person name="Baker K."/>
+<person name="Baldwin D.T."/>
+<person name="Brush J."/>
+<person name="Chen J."/>
+<person name="Chow B."/>
+<person name="Chui C."/>
+<person name="Crowley C."/>
+<person name="Currell B."/>
+<person name="Deuel B."/>
+<person name="Dowd P."/>
+<person name="Eaton D."/>
+<person name="Foster J.S."/>
+<person name="Grimaldi C."/>
+<person name="Gu Q."/>
+<person name="Hass P.E."/>
+<person name="Heldens S."/>
+<person name="Huang A."/>
+<person name="Kim H.S."/>
+<person name="Klimowski L."/>
+<person name="Jin Y."/>
+<person name="Johnson S."/>
+<person name="Lee J."/>
+<person name="Lewis L."/>
+<person name="Liao D."/>
+<person name="Mark M.R."/>
+<person name="Robbie E."/>
+<person name="Sanchez C."/>
+<person name="Schoenfeld J."/>
+<person name="Seshagiri S."/>
+<person name="Simmons L."/>
+<person name="Singh J."/>
+<person name="Smith V."/>
+<person name="Stinson J."/>
+<person name="Vagts A."/>
+<person name="Vandlen R.L."/>
+<person name="Watanabe C."/>
+<person name="Wieand D."/>
+<person name="Woods K."/>
+<person name="Xie M.-H."/>
+<person name="Yansura D.G."/>
+<person name="Yi S."/>
+<person name="Yu G."/>
+<person name="Yuan J."/>
+<person name="Zhang M."/>
+<person name="Zhang Z."/>
+<person name="Goddard A.D."/>
+<person name="Wood W.I."/>
+<person name="Godowski P.J."/>
+<person name="Gray A.M."/>
+</authorList>
+<dbReference type="PubMed" id="12975309"/>
+<dbReference type="DOI" id="10.1101/gr.1293003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 8)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="268" last="274">
+<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+<authorList>
+<person name="Schmutz J."/>
+<person name="Martin J."/>
+<person name="Terry A."/>
+<person name="Couronne O."/>
+<person name="Grimwood J."/>
+<person name="Lowry S."/>
+<person name="Gordon L.A."/>
+<person name="Scott D."/>
+<person name="Xie G."/>
+<person name="Huang W."/>
+<person name="Hellsten U."/>
+<person name="Tran-Gyamfi M."/>
+<person name="She X."/>
+<person name="Prabhakar S."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chan Y.M."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Martinez D."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nandkeshwar R."/>
+<person name="Noonan J.P."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Priest J."/>
+<person name="Ramirez L."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="Dickson M."/>
+<person name="Cheng J.-F."/>
+<person name="Eichler E.E."/>
+<person name="Olsen A."/>
+<person name="Pennacchio L.A."/>
+<person name="Rokhsar D.S."/>
+<person name="Richardson P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+</authorList>
+<dbReference type="PubMed" id="15372022"/>
+<dbReference type="DOI" id="10.1038/nature02919"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 6)</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Protein Sci." volume="13" first="2819" last="2824">
+<title>Signal peptide prediction based on analysis of experimentally verified cleavage sites.</title>
+<authorList>
+<person name="Zhang Z."/>
+<person name="Henzel W.J."/>
+</authorList>
+<dbReference type="PubMed" id="15340161"/>
+<dbReference type="DOI" id="10.1110/ps.04682504"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 20-34</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="49850" last="49859">
+<title>GPL, a novel cytokine receptor related to GP130 and leukemia inhibitory factor receptor.</title>
+<authorList>
+<person name="Diveu C."/>
+<person name="Lelievre E."/>
+<person name="Perret D."/>
+<person name="Lagrue Lak-Hal A.-H."/>
+<person name="Froger J."/>
+<person name="Guillet C."/>
+<person name="Chevalier S."/>
+<person name="Rousseau F."/>
+<person name="Wesa A."/>
+<person name="Preisser L."/>
+<person name="Chabbert M."/>
+<person name="Gauchat J.-F."/>
+<person name="Galy A."/>
+<person name="Gascan H."/>
+<person name="Morel A."/>
+</authorList>
+<dbReference type="PubMed" id="14504285"/>
+<dbReference type="DOI" id="10.1074/jbc.M307286200"/>
+</citation>
+<scope>ALTERNATIVE SPLICING (ISOFORMS 9; 10; 11 AND 12)</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+<scope>GLYCOSYLATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="Eur. Cytokine Netw." volume="15" first="291" last="302">
+<title>Predominant expression of the long isoform of GP130-like (GPL) receptor is required for interleukin-31 signaling.</title>
+<authorList>
+<person name="Diveu C."/>
+<person name="Lagrue Lak-Hal A.-H."/>
+<person name="Froger J."/>
+<person name="Ravon E."/>
+<person name="Grimaud L."/>
+<person name="Barbier F."/>
+<person name="Hermann J."/>
+<person name="Gascan H."/>
+<person name="Chevalier S."/>
+</authorList>
+<dbReference type="PubMed" id="15627637"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF TYR-639; TYR-670 AND TYR-708</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="36112" last="36120">
+<title>Characterization of the signaling capacities of the novel gp130-like cytokine receptor.</title>
+<authorList>
+<person name="Dreuw A."/>
+<person name="Radtke S."/>
+<person name="Pflanz S."/>
+<person name="Lippok B.E."/>
+<person name="Heinrich P.C."/>
+<person name="Hermanns H.M."/>
+</authorList>
+<dbReference type="PubMed" id="15194700"/>
+<dbReference type="DOI" id="10.1074/jbc.M401122200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH JAK1 AND STAT3</scope>
+<scope>MUTAGENESIS OF TYR-639; TYR-670 AND TYR-708</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2006" name="J. Allergy Clin. Immunol." volume="117" first="418" last="425">
+<title>IL-31 is associated with cutaneous lymphocyte antigen-positive skin homing T cells in patients with atopic dermatitis.</title>
+<authorList>
+<person name="Bilsborough J."/>
+<person name="Leung D.Y.M."/>
+<person name="Maurer M."/>
+<person name="Howell M."/>
+<person name="Boguniewicz M."/>
+<person name="Yao L."/>
+<person name="Storey H."/>
+<person name="LeCiel C."/>
+<person name="Harder B."/>
+<person name="Gross J.A."/>
+</authorList>
+<dbReference type="PubMed" id="16461143"/>
+<dbReference type="DOI" id="10.1016/j.jaci.2005.10.046"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="Eur. J. Hum. Genet." volume="18" first="26" last="32">
+<title>Novel IL31RA gene mutation and ancestral OSMR mutant allele in familial primary cutaneous amyloidosis.</title>
+<authorList>
+<person name="Lin M.W."/>
+<person name="Lee D.D."/>
+<person name="Liu T.T."/>
+<person name="Lin Y.F."/>
+<person name="Chen S.Y."/>
+<person name="Huang C.C."/>
+<person name="Weng H.Y."/>
+<person name="Liu Y.F."/>
+<person name="Tanaka A."/>
+<person name="Arita K."/>
+<person name="Lai-Cheong J."/>
+<person name="Palisson F."/>
+<person name="Chang Y.T."/>
+<person name="Wong C.K."/>
+<person name="Matsuura I."/>
+<person name="McGrath J.A."/>
+<person name="Tsai S.F."/>
+</authorList>
+<dbReference type="PubMed" id="19690585"/>
+<dbReference type="DOI" id="10.1038/ejhg.2009.135"/>
+</citation>
+<scope>VARIANT PLCA2 PHE-489</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6 8">Associates with OSMR to form the interleukin-31 receptor which activates STAT3 and to a lower extent STAT1 and STAT5. May function in skin immunity.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6">Heterodimer with OSMR. Interacts with JAK1 and STAT3.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="15">Cell membrane</location>
+<topology evidence="15">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q8NI17-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q8NI17-2</id>
+<name>2</name>
+<name>v3</name>
+<sequence type="described" ref="VSP_022799"/>
+</isoform>
+<isoform>
+<id>Q8NI17-3</id>
+<name>3</name>
+<name>v4</name>
+<sequence type="described" ref="VSP_022800 VSP_022812 VSP_022813"/>
+</isoform>
+<isoform>
+<id>Q8NI17-4</id>
+<name>4</name>
+<name>v2</name>
+<sequence type="described" ref="VSP_022799 VSP_022801"/>
+</isoform>
+<isoform>
+<id>Q8NI17-5</id>
+<name>5</name>
+<name>v1</name>
+<sequence type="described" ref="VSP_022799 VSP_022812 VSP_022813"/>
+</isoform>
+<isoform>
+<id>Q8NI17-6</id>
+<name>6</name>
+<sequence type="described" ref="VSP_022798"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q8NI17-7</id>
+<name>7</name>
+<sequence type="described" ref="VSP_022800 VSP_022802 VSP_022804 VSP_022805"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q8NI17-8</id>
+<name>8</name>
+<sequence type="described" ref="VSP_022799 VSP_022803 VSP_022807"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q8NI17-9</id>
+<name>9</name>
+<name>GPL560</name>
+<name>short</name>
+<sequence type="described" ref="VSP_022800 VSP_022806"/>
+<text>Major isoform. Dominant negative IL31 receptor.</text>
+</isoform>
+<isoform>
+<id>Q8NI17-10</id>
+<name>10</name>
+<name>GPL610</name>
+<sequence type="described" ref="VSP_022800 VSP_022809 VSP_022810"/>
+</isoform>
+<isoform>
+<id>Q8NI17-11</id>
+<name>11</name>
+<name>GPL626</name>
+<sequence type="described" ref="VSP_022800 VSP_022808 VSP_022811"/>
+</isoform>
+<isoform>
+<id>Q8NI17-12</id>
+<name>12</name>
+<name>GPL745</name>
+<name>long</name>
+<sequence type="described" ref="VSP_022800"/>
+<text>Major isoform. Functional IL31 receptor.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3 4 5 9">Expressed at low levels in testis, ovary, brain, prostate, placenta, thymus, bone marrow, trachea and skin. Detected in all of the myelomonocytic lineage. Expressed in CD14- and CD56-positive blood cells and by macrophages (at protein level).</text>
+</comment>
+<comment type="induction">
+<text evidence="3 4 5 9">Up-regulated in lesional keratinocytes of patients with atopic dermatitis. Up-regulated by IFNG/IFN-gamma and bacterial lipopolysaccharides (LPS).</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">N-glycosylated.</text>
+</comment>
+<comment type="disease" evidence="10">
+<disease id="DI-03102">
+<name>Amyloidosis, primary localized cutaneous, 2</name>
+<acronym>PLCA2</acronym>
+<description>A primary amyloidosis characterized by localized cutaneous amyloid deposition. This condition usually presents with itching (especially on the lower legs) and visible changes of skin hyperpigmentation and thickening that may be exacerbated by chronic scratching and rubbing. Primary localized cutaneous amyloidosis is often divided into macular and lichen subtypes although many affected individuals often show both variants coexisting. Lichen amyloidosis characteristically presents as a pruritic eruption of grouped hyperkeratotic papules with a predilection for the shins, calves, ankles and dorsa of feet and thighs. Papules may coalesce to form hyperkeratotic plaques that can resemble lichen planus, lichen simplex or nodular prurigo. Macular amyloidosis is characterized by small pigmented macules that may merge to produce macular hyperpigmentation, sometimes with a reticulate or rippled pattern. In macular and lichen amyloidosis, amyloid is deposited in the papillary dermis in association with grouped colloid bodies, thought to represent degenerate basal keratinocytes. The amyloid deposits probably reflect a combination of degenerate keratin filaments, serum amyloid P component, and deposition of immunoglobulins.</description>
+<dbReference type="MIM" id="613955"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="15">Belongs to the type I cytokine receptor family. Type 2 subfamily.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Contains 5 fibronectin type-III domains.</text>
+</comment>
+<comment type="sequence caution" evidence="15">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAS86444" version="1"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<comment type="sequence caution" evidence="15">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAS86445" version="1"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<dbReference type="EMBL" id="AF486620">
+<property type="protein sequence ID" value="AAM27958.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY499339">
+<property type="protein sequence ID" value="AAS86444.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY499340">
+<property type="protein sequence ID" value="AAS86445.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY499341">
+<property type="protein sequence ID" value="AAS86446.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY499342">
+<property type="protein sequence ID" value="AAS86447.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF106913">
+<property type="protein sequence ID" value="AAL36452.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY358117">
+<property type="protein sequence ID" value="AAQ88484.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY358740">
+<property type="protein sequence ID" value="AAQ89100.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC008914">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC110490">
+<property type="protein sequence ID" value="AAI10491.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS3970.2">
+<molecule id="Q8NI17-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS56365.1">
+<molecule id="Q8NI17-5"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS56366.1">
+<molecule id="Q8NI17-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS56367.1">
+<molecule id="Q8NI17-6"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS75244.1">
+<molecule id="Q8NI17-8"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS75245.1">
+<molecule id="Q8NI17-12"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001229565.1">
+<molecule id="Q8NI17-12"/>
+<property type="nucleotide sequence ID" value="NM_001242636.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001229566.1">
+<molecule id="Q8NI17-5"/>
+<property type="nucleotide sequence ID" value="NM_001242637.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001229567.1">
+<molecule id="Q8NI17-3"/>
+<property type="nucleotide sequence ID" value="NM_001242638.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001229568.1">
+<molecule id="Q8NI17-6"/>
+<property type="nucleotide sequence ID" value="NM_001242639.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001284499.1">
+<molecule id="Q8NI17-8"/>
+<property type="nucleotide sequence ID" value="NM_001297570.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001284501.1">
+<property type="nucleotide sequence ID" value="NM_001297572.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_620586.3">
+<molecule id="Q8NI17-2"/>
+<property type="nucleotide sequence ID" value="NM_139017.5"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011541444.1">
+<molecule id="Q8NI17-1"/>
+<property type="nucleotide sequence ID" value="XM_011543142.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011541445.1">
+<molecule id="Q8NI17-3"/>
+<property type="nucleotide sequence ID" value="XM_011543143.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011541446.1">
+<molecule id="Q8NI17-6"/>
+<property type="nucleotide sequence ID" value="XM_011543144.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.55378"/>
+<dbReference type="ProteinModelPortal" id="Q8NI17"/>
+<dbReference type="SMR" id="Q8NI17">
+<property type="residue range" value="22-227, 237-512"/>
+</dbReference>
+<dbReference type="BioGrid" id="126357">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="IntAct" id="Q8NI17">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000415900"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="1710"/>
+<dbReference type="PhosphoSite" id="Q8NI17"/>
+<dbReference type="BioMuta" id="IL31RA"/>
+<dbReference type="DMDM" id="74730327"/>
+<dbReference type="MaxQB" id="Q8NI17"/>
+<dbReference type="PaxDb" id="Q8NI17"/>
+<dbReference type="PRIDE" id="Q8NI17"/>
+<dbReference type="Ensembl" id="ENST00000297015">
+<molecule id="Q8NI17-12"/>
+<property type="protein sequence ID" value="ENSP00000297015"/>
+<property type="gene ID" value="ENSG00000164509"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000354961">
+<molecule id="Q8NI17-3"/>
+<property type="protein sequence ID" value="ENSP00000347047"/>
+<property type="gene ID" value="ENSG00000164509"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000359040">
+<molecule id="Q8NI17-5"/>
+<property type="protein sequence ID" value="ENSP00000351935"/>
+<property type="gene ID" value="ENSG00000164509"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000396834">
+<molecule id="Q8NI17-3"/>
+<property type="protein sequence ID" value="ENSP00000380046"/>
+<property type="gene ID" value="ENSG00000164509"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000396836">
+<molecule id="Q8NI17-8"/>
+<property type="protein sequence ID" value="ENSP00000380048"/>
+<property type="gene ID" value="ENSG00000164509"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000447346">
+<molecule id="Q8NI17-2"/>
+<property type="protein sequence ID" value="ENSP00000415900"/>
+<property type="gene ID" value="ENSG00000164509"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000490985">
+<molecule id="Q8NI17-6"/>
+<property type="protein sequence ID" value="ENSP00000427533"/>
+<property type="gene ID" value="ENSG00000164509"/>
+</dbReference>
+<dbReference type="GeneID" id="133396"/>
+<dbReference type="KEGG" id="hsa:133396"/>
+<dbReference type="UCSC" id="uc003jqk.3">
+<molecule id="Q8NI17-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="133396"/>
+<dbReference type="GeneCards" id="IL31RA"/>
+<dbReference type="HGNC" id="HGNC:18969">
+<property type="gene designation" value="IL31RA"/>
+</dbReference>
+<dbReference type="MalaCards" id="IL31RA"/>
+<dbReference type="MIM" id="609510">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="613955">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8NI17"/>
+<dbReference type="Orphanet" id="353220">
+<property type="disease" value="Familial primary localized cutaneous amyloidosis"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA134952624"/>
+<dbReference type="eggNOG" id="ENOG410IJG6">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YAI2">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074436"/>
+<dbReference type="HOVERGEN" id="HBG081788"/>
+<dbReference type="InParanoid" id="Q8NI17"/>
+<dbReference type="OMA" id="IWYFPEN"/>
+<dbReference type="OrthoDB" id="EOG7FXZXN"/>
+<dbReference type="PhylomeDB" id="Q8NI17"/>
+<dbReference type="TreeFam" id="TF338122"/>
+<dbReference type="SignaLink" id="Q8NI17"/>
+<dbReference type="ChiTaRS" id="IL31RA">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="IL31RA"/>
+<dbReference type="GenomeRNAi" id="133396"/>
+<dbReference type="NextBio" id="83210"/>
+<dbReference type="PRO" id="PR:Q8NI17"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="Bgee" id="Q8NI17"/>
+<dbReference type="ExpressionAtlas" id="Q8NI17">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8NI17">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009897">
+<property type="term" value="C:external side of plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019955">
+<property type="term" value="F:cytokine binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004896">
+<property type="term" value="F:cytokine receptor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003713">
+<property type="term" value="F:transcription coactivator activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002438">
+<property type="term" value="P:acute inflammatory response to antigenic stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019221">
+<property type="term" value="P:cytokine-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006952">
+<property type="term" value="P:defense response"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098542">
+<property type="term" value="P:defense response to other organism"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002067">
+<property type="term" value="P:glandular epithelial cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042592">
+<property type="term" value="P:homeostatic process"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007259">
+<property type="term" value="P:JAK-STAT cascade"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030225">
+<property type="term" value="P:macrophage differentiation"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000165">
+<property type="term" value="P:MAPK cascade"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030224">
+<property type="term" value="P:monocyte differentiation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043031">
+<property type="term" value="P:negative regulation of macrophage activation"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042517">
+<property type="term" value="P:positive regulation of tyrosine phosphorylation of Stat3 protein"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042523">
+<property type="term" value="P:positive regulation of tyrosine phosphorylation of Stat5 protein"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035745">
+<property type="term" value="P:T-helper 2 cell cytokine production"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007169">
+<property type="term" value="P:transmembrane receptor protein tyrosine kinase signaling pathway"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003961">
+<property type="entry name" value="FN3_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015321">
+<property type="entry name" value="TypeI_recpt_CBD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00041">
+<property type="entry name" value="fn3"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09240">
+<property type="entry name" value="IL6Ra-bind"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00060">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49265">
+<property type="entry name" value="SSF49265"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50853">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="3"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-1008">Amyloidosis</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="7">
+<location>
+<begin position="1"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="chain" description="Interleukin-31 receptor subunit alpha" id="PRO_0000274572">
+<location>
+<begin position="20"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="1">
+<location>
+<begin position="20"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="520"/>
+<end position="540"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="541"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 1" evidence="2">
+<location>
+<begin position="24"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 2" evidence="2">
+<location>
+<begin position="124"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 3" evidence="2">
+<location>
+<begin position="223"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 4" evidence="2">
+<location>
+<begin position="319"/>
+<end position="416"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 5" evidence="2">
+<location>
+<begin position="421"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="93"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="277"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="283"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="395"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="455"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="504"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 6." id="VSP_022798" evidence="13">
+<location>
+<begin position="1"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2, isoform 4, isoform 5 and isoform 8." id="VSP_022799" evidence="11 12">
+<original>M</original>
+<variation>MCIRQLKFFTTACVCECPQNILSPQPSCVNLGM</variation>
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3, isoform 7, isoform 9, isoform 10, isoform 11 and isoform 12." id="VSP_022800" evidence="12 14">
+<original>M</original>
+<variation>MKLSPQPSCVNLGM</variation>
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_022801" evidence="12">
+<location>
+<begin position="325"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 7." id="VSP_022802" evidence="14">
+<original>GGKGFS</original>
+<variation>A</variation>
+<location>
+<begin position="464"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 8." id="VSP_022803" evidence="11">
+<original>SKTVNSSILQYGLESLKRKTSYIVQVMASTSAGGTNGTSINFKTLSFSVFEIILITSLIGGGLLILIILTVAYGLKKPNKLT</original>
+<variation>CKHAHSEVEKNPKPQIDAMDRPVVGMAPPSHCDLQPGMNHLASLNLSENGAKSTHLLGFWGLNESEVTVPERRVLRKWKELL</variation>
+<location>
+<begin position="469"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 7." id="VSP_022804" evidence="14">
+<original>TSAG</original>
+<variation>YSGG</variation>
+<location>
+<begin position="498"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 7." id="VSP_022805" evidence="14">
+<location>
+<begin position="502"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 9." id="VSP_022806" evidence="15">
+<location>
+<begin position="548"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 8." id="VSP_022807" evidence="11">
+<location>
+<begin position="551"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 11." id="VSP_022808" evidence="15">
+<original>LKPCSTPSDKLVIDKLVVNFG</original>
+<variation>KGSELGTKLKFKPLISLDCAF</variation>
+<location>
+<begin position="593"/>
+<end position="613"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 10." id="VSP_022809" evidence="15">
+<original>LKPCST</original>
+<variation>RARYQA</variation>
+<location>
+<begin position="593"/>
+<end position="598"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 10." id="VSP_022810" evidence="15">
+<location>
+<begin position="599"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 11." id="VSP_022811" evidence="15">
+<location>
+<begin position="614"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3 and isoform 5." id="VSP_022812" evidence="12">
+<original>YVTCPFRPDCP</original>
+<variation>TRILSSCPTSI</variation>
+<location>
+<begin position="639"/>
+<end position="649"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3 and isoform 5." id="VSP_022813" evidence="12">
+<location>
+<begin position="650"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13184107." id="VAR_030328">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="155"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PLCA2." id="VAR_065809" evidence="10">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="489"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs161704." id="VAR_030329">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="497"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on STAT1 and STAT3 activation. Slight decrease; when associated with A-670 and A-708." evidence="6 8">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="639"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abrogates STAT5 activation. Mild effect on STAT1 activation. No effect on STAT3 activation." evidence="6 8">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="639"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on STAT1 and STAT3 activation. Slight decrease; when associated with A-639 and A-708." evidence="6 8">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="670"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on STAT3 and STAT5 activation. Mild effect on STAT1 activation." evidence="6 8">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="670"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on STAT1 and STAT3 activation. Slight decrease; when associated with A-639 and A-670." evidence="6 8">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="708"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abrogates STAT3 activation. Loss of interaction with STAT3. Mild effect on STAT1 activation. No effect on STAT5 activation." evidence="6 8">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="708"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00316"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11877449"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14504285"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15184896"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15194700"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15340161"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15627637"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16461143"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19690585"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12975309"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15184896"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source ref="3"/>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<sequence length="732" mass="82954" checksum="30F84BD3DD99A20E" modified="2002-10-01" version="1" precursor="true">
+MMWTWALWMLPSLCKFSLAALPAKPENISCVYYYRKNLTCTWSPGKETSYTQYTVKRTYA
+FGEKHDNCTTNSSTSENRASCSFFLPRITIPDNYTIEVEAENGDGVIKSHMTYWRLENIA
+KTEPPKIFRVKPVLGIKRMIQIEWIKPELAPVSSDLKYTLRFRTVNSTSWMEVNFAKNRK
+DKNQTYNLTGLQPFTEYVIALRCAVKESKFWSDWSQEKMGMTEEEAPCGLELWRVLKPAE
+ADGRRPVRLLWKKARGAPVLEKTLGYNIWYYPESNTNLTETMNTTNQQLELHLGGESFWV
+SMISYNSLGKSPVATLRIPAIQEKSFQCIEVMQACVAEDQLVVKWQSSALDVNTWMIEWF
+PDVDSEPTTLSWESVSQATNWTIQQDKLKPFWCYNISVYPMLHDKVGEPYSIQAYAKEGV
+PSEGPETKVENIGVKTVTITWKEIPKSERKGIICNYTIFYQAEGGKGFSKTVNSSILQYG
+LESLKRKTSYIVQVMASTSAGGTNGTSINFKTLSFSVFEIILITSLIGGGLLILIILTVA
+YGLKKPNKLTHLCWPTVPNPAESSIATWHGDDFKDKLNLKESDDSVNTEDRILKPCSTPS
+DKLVIDKLVVNFGNVLQEIFTDEARTGQENNLGGEKNGYVTCPFRPDCPLGKSFEELPVS
+PEIPPRKSQYLRSRMPEGTRPEAKEQLLFSGQSLVPDHLCEEGAPNPYLKNSVTAREFLV
+SEKLPEHTKGEV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>
