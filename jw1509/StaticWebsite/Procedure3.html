@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset="UTF-8" /> 
+    <title>
+        Customers.html
+    </title>
+    <link rel="stylesheet" type="text/css" HREF="./css/StyleSheets.css"/>
+    <link rel="stylesheet" type="text/css" HREF="./css/navigation.css"/>
+</head>
+<body>
+	<nav>
+	  <a href="ProjectPresentation.html">Home Page</a>
+      <a href="WebsiteDocs.html">My website documentation</a>
+      <a href="scIndex.html">Bioinformatics reports</a>
+      <a href="FutureWork.html">Future work</a>
+      <a href="">Contact</a>
+    </nav>
+    <section>
+	<h1>
+		Use jw1509_ptop Database
+		<br><br>
+		<input Type="button" value="Go Back to Report Page" onclick="window.location.href='scIndex.html'">
+	</h1>
+	<br>
+	<hr>
+
+	<form id="form1" action="" method="get">
+
+	<p>Find proteins whose length longer than a certain length:
+	<input type="text" placeholder="Enter a length" name="length">
+	</p>
+	
+	<input type="submit" name="submit1" class="submit" value="Get data" />
+	</form>
+	<hr>
+	<br>
+	<!--/* the class name is case sensitive.*/ -->
+	<table class="table1">
+	<!--table-->
+		<caption>
+			Proteins whose length longer than 1000aa
+		</caption>
+		<!-- make the first row a column header row-->
+		<tr>
+			<th> Uniprot_entry_id </th>
+			<th> protein_name </th>
+			<th> Sequence_Length </th>
+			<th> mass </th>
+		</tr>
+		<tr>
+			<td> P25054 </td>
+			<td> Adenomatous polyposis coli protein </td>
+			<td> 2843 </td>
+			<td> 311646 </td>
+		</tr>
+		<tr>
+			<td> Q13535 </td>
+			<td> Serine/threonine-protein kinase ATR </td>
+			<td> 2644 </td>
+			<td> 301367 </td>
+		</tr>
+				<tr>
+			<td> Q03468 </td>
+			<td> DNA excision repair protein ERCC-6 </td>
+			<td> 1493 </td>
+			<td> 168416 </td>
+		</tr>
+				<tr>
+			<td> Q9UHC1 </td>
+			<td> DNA mismatch repair protein Mlh3 </td>
+			<td> 1453 </td>
+			<td> 163711 </td>
+		</tr>
+				<tr>
+			<td> P52701 </td>
+			<td> DNA mismatch repair protein Msh6 </td>
+			<td> 1360 </td>
+			<td> 152786 </td>
+		</tr>
+				<tr>
+			<td> P42336 </td>
+			<td> Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform </td>
+			<td> 1068 </td>
+			<td> 124284 </td>
+		</tr>
+				<tr>
+			<td> Q96P20 </td>
+			<td> NACHT, LRR and PYD domains-containing protein 3 </td>
+			<td> 1036 </td>
+			<td> 118173 </td>
+		</tr>
+	</table>
+</section>
+</body>
+</html>

@@ -1,0 +1,47 @@
+Uniprot entry,Uniprot Link,Protein Name,Sequence length,Mass(Da),Targeted disease,collected by,HGNC ID
+P05067,http://www.uniprot.org/uniprot/P05067,Amyloid beta A4 protein,770,86943,amyloidosis,jywang,620
+Q9NXR8,http://www.uniprot.org/uniprot/Q9NXR8,Inhibitor of growth protein 3,418,46743,skin cancer,jywang,14587
+P31749,http://www.uniprot.org/uniprot/P31749,RAC-alpha serine/threonine-protein kinase,480,55686,skin cancer,jywang,391
+P19438,http://www.uniprot.org/uniprot/P19438,Tumor necrosis factor receptor superfamily member 1A,455,50495,amyloidosis,jywang,11916
+P02647,http://www.uniprot.org/uniprot/P02647,Apolipoprotein A-I,267,30778,amyloidosis,jywang,600
+P02766,http://www.uniprot.org/uniprot/P02766,Transthyretin,147,15887,amyloidosis,jywang,12405
+O14521,http://www.uniprot.org/uniprot/O14521,"Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial",159,17043,skin cancer,jywang,10683
+P25054,http://www.uniprot.org/uniprot/P25054,Adenomatous polyposis coli protein,2843,311646,skin cancer,jywang,583
+Q13216,http://www.uniprot.org/uniprot/Q13216,DNA excision repair protein ERCC-8,396,44055,skin cancer,jywang,3439
+P0DJI9,http://www.uniprot.org/uniprot/P0DJI9,Serum amyloid A-2 protein,122,13527,amyloidosis,jywang,10514
+Q03468,http://www.uniprot.org/uniprot/Q03468,DNA excision repair protein ERCC-6,1493,168416,skin cancer,jywang,3438
+P60484,http://www.uniprot.org/uniprot/P60484,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",403,47166,skin cancer,jywang,9588
+P54278,http://www.uniprot.org/uniprot/P54278,Mismatch repair endonuclease PMS2,862,95797,skin cancer,jywang,9122
+Q15306,http://www.uniprot.org/uniprot/Q15306,Interferon regulatory factor 4,451,51772,amyloidosis,jywang,6119
+P22607,http://www.uniprot.org/uniprot/P22607,Fibroblast growth factor receptor 3,806,87710,amyloidosis,jywang,3690
+Q9UHC1,http://www.uniprot.org/uniprot/Q9UHC1,DNA mismatch repair protein Mlh3,1453,163711,skin cancer,jywang,7128
+Q92889,http://www.uniprot.org/uniprot/Q92889,DNA repair endonuclease XPF,916,104486,skin cancer,jywang,3436
+P04156,http://www.uniprot.org/uniprot/P04156,Major prion protein,253,27661,amyloidosis,jywang,9449
+P06396,http://www.uniprot.org/uniprot/P06396,Gelsolin,782,85698,amyloidosis,jywang,4620
+P0DJI8,http://www.uniprot.org/uniprot/P0DJI8,Serum amyloid A-1 protein,122,13532,amyloidosis,jywang,10513
+P02671,http://www.uniprot.org/uniprot/P02671,Fibrinogen alpha chain,866,94973,amyloidosis,jywang,3661
+P40692,http://www.uniprot.org/uniprot/P40692,DNA mismatch repair protein Mlh1,756,84601,skin cancer,jywang,7127
+P61769,http://www.uniprot.org/uniprot/P61769,Beta-2-microglobulin,119,13715,amyloidosis,jywang,914
+P61626,http://www.uniprot.org/uniprot/P61626,Lysozyme C,148,16537,amyloidosis,jywang,6740
+Q15582,http://www.uniprot.org/uniprot/Q15582,Transforming growth factor-beta-induced protein ig-h3,683,74681,amyloidosis,jywang,11771
+Q99650,http://www.uniprot.org/uniprot/Q99650,Oncostatin-M-specific receptor subunit beta,979,110509,amyloidosis,jywang,8507
+Q9BXB1,http://www.uniprot.org/uniprot/Q9BXB1,Leucine-rich repeat-containing G-protein coupled receptor 4,951,104475,skin cancer,jywang,13299
+Q8NI17,http://www.uniprot.org/uniprot/Q8NI17,Interleukin-31 receptor subunit alpha,732,82954,amyloidosis,jywang,18969
+P42336,http://www.uniprot.org/uniprot/P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",1068,124284,skin cancer,jywang,8975
+B2CW77,http://www.uniprot.org/uniprot/B2CW77,Killin,178,19958,skin cancer,jywang,37212
+P37173,http://www.uniprot.org/uniprot/P37173,TGF-beta receptor type-2,567,64568,skin cancer,jywang,11773
+O15553,http://www.uniprot.org/uniprot/O15553,Pyrin,781,86444,amyloidosis,jywang,6998
+Q13535,http://www.uniprot.org/uniprot/Q13535,Serine/threonine-protein kinase ATR,2644,301367,skin cancer,jywang,882
+P04637,http://www.uniprot.org/uniprot/P04637,Cellular tumor antigen p53,393,43653,skin cancer,jywang,11998
+P21912,http://www.uniprot.org/uniprot/P21912,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",280,31630,skin cancer,jywang,10681
+P09758,http://www.uniprot.org/uniprot/P09758,Tumor-associated calcium signal transducer 2,323,35709,amyloidosis,jywang,11530
+P16422,http://www.uniprot.org/uniprot/P16422,Epithelial cell adhesion molecule,314,34932,skin cancer,jywang,11529
+P52701,http://www.uniprot.org/uniprot/P52701,DNA mismatch repair protein Msh6,1360,152786,skin cancer,jywang,7329
+Q96P20,http://www.uniprot.org/uniprot/Q96P20,"NACHT, LRR and PYD domains-containing protein 3",1036,118173,amyloidosis,jywang,16400
+O14763,http://www.uniprot.org/uniprot/O14763,Tumor necrosis factor receptor superfamily member 10B,440,47878,skin cancer,jywang,11905
+P01857,http://www.uniprot.org/uniprot/P01857,Ig gamma-1 chain C region,330,36106,amyloidosis,jywang,5525
+P24385,http://www.uniprot.org/uniprot/P24385,G1/S-specific cyclin-D1,295,33729,amyloidosis,jywang,1582
+Q9UK53,http://www.uniprot.org/uniprot/Q9UK53,Inhibitor of growth protein 1,422,46738,skin cancer,jywang,6062
+P43246,http://www.uniprot.org/uniprot/P43246,DNA mismatch repair protein Msh2,934,104743,skin cancer,jywang,7325
+P01034,http://www.uniprot.org/uniprot/P01034,Cystatin-C,146,15799,amyloidosis,jywang,2475
+P14679,http://www.uniprot.org/uniprot/P14679,Tyrosinase,529,60393,skin cancer,jywang,12442
