@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<!-- FutureWork.html 
+This is a comment. Comments are not displayed in the browser.
+-->
+<html>
+<head>
+    <title>
+        NoSQL Demo
+    </title>
+    <link rel="stylesheet" type="text/css" HREF="./css/StyleSheets.css"/>
+    <link rel="stylesheet" type="text/css" HREF="./css/navigation.css"/>
+</head>
+<body>
+	 <nav>
+	  <a href="ProjectPresentation.php">Home Page</a>
+      <a href="WebsiteDocs.php">My website documentation</a>
+      <a href="BioinformaticsReport.php">Bioinformatics reports</a>
+      <a href="FutureWork.php">Future work</a>
+      <a href="https://github.com/explorerwjy" target="_blank">Contact</a>
+    </nav>
+<section>
+<h1>
+    NoSQL Demo : MongoDB
+	<br>
+	<input Type="button" value="Go Back to Home Page" onclick="window.location.href='ProjectPresentation.php'"> 
+
+</h1>
+<hr>
+
+<div>
+	<h2>Overview</h2>
+	<p>MongoDB is an open-source, cross-platform, document oriented database that provides, high performance, high availability, and easy scalability. MongoDB works on concept of collection and document.</p>
+	<ul>
+		<li>
+		<p>Database: a physical container for collections. Each database gets its own set of files on the file system. A single MongoDB server typically has multiple databases.</p>
+	</li>
+		<li>
+		<p>collection: a group of MongoDB documents. It is the equivalent of an RDBMS table. A collection exists within a single database. Collections do not enforce a schema. Documents within a collection can have different fields. Typically, all documents in a collection are of similar or related purpose.</p>
+	</li>
+	<li>
+		<p>Document: a set of key-value pairs. Documents have dynamic schema. Dynamic schema means that documents in the same collection do not need to have the same set of fields or structure, and common fields in a collection's documents may hold different types of data.</p>
+	</li>
+
+	<table class="table1">
+		<tr>
+		<th style="width:50%;">RDBMS</th>
+		<th>MongoDB</th>
+		</tr>
+		<tr>
+		<td>Database</td>
+		<td>Database</td>
+		</tr>
+		<tr>
+		<td>Table</td>
+		<td>Collection</td>
+		</tr>
+		<tr>
+		<td>Tuple/Row</td>
+		<td>Document</td>
+		</tr>
+		<tr>
+		<td>column</td>
+		<td>Field</td>
+		</tr>
+		<tr>
+		<td>Table Join</td>
+		<td>Embedded Documents</td>
+		</tr>
+		<tr>
+		<td>Primary Key</td>
+		<td>Primary Key (Default key _id provided by mongodb itself)</td>
+		</tr>
+		<tr>
+		<th colspan="2" style="text-align:center;">Database Server and Client</th>
+		</tr>
+		<tr>
+		<td>Mysqld/Oracle</td>
+		<td>mongod</td>
+		</tr>
+		<tr>
+		<td>mysql/sqlplus</td>
+		<td>mongo</td>
+		</tr>
+		</table>
+</div>
+<br><br>
+<div>
+	<h2>Set Environment</h2>
+	<p>I install MongoDB on AWS EC2</p>
+	<img src="./images/no1.PNG">
+	<br>
+	<h2>Get Data</h2>
+	<p>Json file of Proteins(from Uniprot), Genes(from HGNC), MIM phenotypes(from OMIM)</p>
+	<p>Use python get the data</p>
+
+	<h2>Some basic operations</h2>
+	<h3>Start MongoDB</h3>
+		<p>sudo service mongodb start</p>
+	<h3>Stop MongoDB</h3>
+		<p>sudo service mongodb start</p>
+	<h3>Restart MongoDB</h3>
+		<p>sudo service mongodb restart</p>
+	<h3>To use mongodb run the following command</h3>
+		<p>mongo</p>
+	<h3>MongoDB Help</h3>
+		<p>db.help()</p>
+	<h3>MongoDB Statistics</h3>
+		<p>db.stats()</p>
+</div>
+
+<div>
+	<h3>Other common operations</h3>
+<p>use DATABASE_NAME</p>
+<p>show dbs</p>
+<p>db.collection.insert({"key":"value"})</p>
+<p>db.dropDatabase()</p>
+<p>db.createCollection(name, options)</p>
+<p>show collections</p>
+<p>db.collection.drop()</p>
+<br>
+<h2>Some Query Demoes</h2>
+<p>db.mim.find().pretty()</p>
+<p>db.gene.find({'HGNC_id':'620'}).pretty()</p>
+<p>db.protein.find( { "sequence.@length": {$gt:500} }, { 'accession': 1, 'sequence': 1 } ).pretty()</p>
+<p>db.protein.find( { 'gene.name.#text':'KLLN' }, { 'reference': 1 } ).pretty()</p>
+</div>
+<br>
+<br>
+
+<b>For More Information, Hit <a href="https://docs.mongodb.org/manual/">The MongoDB 3.2 Manual</a></b>
+</section>
+</body>
+</html>

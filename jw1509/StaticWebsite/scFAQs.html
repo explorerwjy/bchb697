@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!-- scFAQs.html 
+This is a comment. Comments are not displayed in the browser
+-->
+
+<html lang='en'>
+<head>
+    <meta charset="UTF-8" /> 
+    <title>
+        scFAQs.html
+    </title>
+                <link rel="stylesheet" type="text/css" HREF="./css/StyleSheets.css"/>
+    <link rel="stylesheet" type="text/css" HREF="./css/navigation.css"/>
+    <!-- <link rel="stylesheet" type="text/css" HREF="StyleSheets.css" > -->
+</head>
+<body>
+<nav>
+	  <a href="ProjectPresentation.html">Home Page</a>
+      <a href="WebsiteDocs.html">My website documentation</a>
+      <a href="scIndex.html">Bioinformatics reports</a>
+      <a href="FutureWork.html">Future work</a>
+      <a href="">Contact</a>
+    </nav>
+    <section>
+	<h1>
+		Use jw1509_ptop Database
+		<br><br>
+		<!-- <button Type="button"  onclick="window.location.href='scIndex.html'">Go Back to Report Search Index</button>  -->
+		<input Type="button" value="Go Back to Report Page" onclick="window.location.href='scIndex.html'">
+	</h1>
+	<br>
+	<hr>
+	<form id="form" action="" method="get">
+	<p> Select one of the frequently asked questions: </p>
+	<p> 
+		<input type="radio" name="question" value="1" style ="margin-left:100px" checked /> Which Protein have length langer than 1000AA?  <br><br>
+				
+		<input type="radio" name="question" value="2" style ="margin-left:100px"/> According to each MIM phenotype in the database, find their number of related proteins and some useful information. &nbsp; <br> 
+		
+		<input type="radio" name="question" value="3" style ="margin-left:100px" /> Report number of proteins with and without do information 
+	</p>
+
+	<input type="submit" name="submit3" class="submit" value="Get An Answer" />
+	</form>
+	<hr>
+	<br>
+	<p>No data was found for the selected question.</p>
+
+	</section>
+</body>
+</html>

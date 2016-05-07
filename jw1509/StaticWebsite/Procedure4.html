@@ -1,0 +1,76 @@
+
+
+<!DOCTYPE html>
+<!-- scCustomers.html 
+This is a comment. Comments are not displayed in the browser
+-->
+
+<html lang='en'>
+<head>
+    <meta charset="UTF-8" /> 
+    <title>
+        Procedure4.html
+    </title>
+    <link rel="stylesheet" type="text/css" HREF="./css/StyleSheets.css"/>
+    <link rel="stylesheet" type="text/css" HREF="./css/navigation.css"/>
+</head>
+<body>
+	<nav>
+	  <a href="ProjectPresentation.html">Home Page</a>
+      <a href="WebsiteDocs.html">My website documentation</a>
+      <a href="scIndex.html">Bioinformatics reports</a>
+      <a href="FutureWork.html">Future work</a>
+      <a href="">Contact</a>
+    </nav>
+    <section>
+	<h1>
+		Use jw1509_ptop Database
+		<br><br>
+		<input Type="button" value="Go Back to Report Page" onclick="window.location.href='scIndex.html'">
+	</h1>
+	<br>
+	<hr>
+
+	<form id="form1" action="" method="get">
+
+	<p>Find disease related proteins:
+	<input type="text" placeholder="Enter a Disease name" name="disease_name">
+	</p>
+	
+	<input type="submit" name="submit1" class="submit" value="Get data" />
+	</form>
+	<hr>
+	<br>
+	<!--/* the class name is case sensitive.*/ -->
+	<table class="table1">
+	<!--table-->
+		<caption>
+			Breast Cancer related proteins
+		</caption>
+		<!-- make the first row a column header row-->
+		<tr>
+			<th> Uniprot_entry_ID </th>
+			<th> Protein_Name </th>
+			<th> Sequence_Length </th>
+			<th> Mass </th>
+			<th> HGNC_id </th>
+		</tr>
+		<tr>
+			<td> P31749 </td>
+			<td> RAC-alpha serine/threonine-protein kinase </td>
+			<td> 480 </td>
+			<td> 55686 </td>
+			<td> 391 </td>
+		</tr>
+		<tr>
+			<td> P42336 </td>
+			<td> Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform </td>
+			<td> 1068 </td>
+			<td> 124284 </td>
+			<td> 8975 </td>
+		</tr>
+
+	</table>
+</section>
+</body>
+</html>
